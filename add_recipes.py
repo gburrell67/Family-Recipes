@@ -76,6 +76,41 @@ KNOWN_CATEGORIES = {
 # RTF → plain text
 # ─────────────────────────────────────────────────────────────────────────────
 
+_RTF_SKIP_GROUPS = ('fonttbl', 'colortbl', 'expandedcolortbl', 'stylesheet',
+                    'info', 'listtable', 'listoverridetable', 'generator')
+
+
+def _strip_rtf_groups(text: str) -> str:
+    """Remove header destination groups like {\\fonttbl ...} and {\\*\\expandedcolortbl ...}."""
+    out = []
+    i = 0
+    n = len(text)
+    pattern = re.compile(r'\{\\(?:\*\\)?(' + '|'.join(_RTF_SKIP_GROUPS) + r')\b')
+    while i < n:
+        m = pattern.match(text, i)
+        if m:
+            depth = 0
+            j = i
+            while j < n:
+                c = text[j]
+                if c == '\\':
+                    j += 2
+                    continue
+                if c == '{':
+                    depth += 1
+                elif c == '}':
+                    depth -= 1
+                    if depth == 0:
+                        j += 1
+                        break
+                j += 1
+            i = j
+        else:
+            out.append(text[i])
+            i += 1
+    return ''.join(out)
+
+
 def rtf_to_text(rtf_content: str) -> str:
     """Strip RTF control codes and return plain readable text."""
     text = rtf_content
@@ -92,10 +127,19 @@ def rtf_to_text(rtf_content: str) -> str:
     text = re.sub(r'\\page\b', '\n', text)
     text = re.sub(r'\\tab\b', '\t', text)
 
-    # Remove destination groups (font tables, colour tables, etc.)
-    # Use a loop to handle nested braces
-    for _ in range(5):
-        text = re.sub(r'\{\\[a-z\*][^{}]{0,300}\}', '', text)
+    # Remove destination groups (font tables, colour tables, etc.) using
+    # brace matching. Only known header groups are removed, so the outer
+    # {\rtf1 ...} group (and the recipe text) is never discarded.
+    text = _strip_rtf_groups(text)
+
+    # Unicode characters: \uc0\u8220  or  \u8220?  ->  the actual character
+    def decode_unicode(m):
+        n = int(m.group(1))
+        if n < 0:
+            n += 65536
+        return chr(n)
+    text = re.sub(r'\\uc\d+', '', text)
+    text = re.sub(r'\\u(-?\d+) ?\??', decode_unicode, text)
 
     # Remove hex-encoded characters (\'xx) — keep the visible char where possible
     def decode_hex(m):
@@ -165,12 +209,79 @@ def _strip_label(line: str, *labels) -> tuple:
     return ll, False
 
 
+_LABEL_RE = re.compile(
+    r'[ \t]*(?<![\n])\b(Category|Source|Ingredients|Instructions|Directions|Method):', re.IGNORECASE)
+
+_QTY_RE = re.compile(
+    r'(?<=\S)\s+(?=(?:\d+\s+\d+/\d+|\d+/\d+|\d+(?:\.\d+)?)\s*'
+    r'(?:cups?|tbsp\.?|tsp\.?|tablespoons?|teaspoons?|oz\.?|lbs?\.?|pounds?|ml|g|kg|cloves?|cans?|pkg\.?|large|medium|small)\b)',
+    re.IGNORECASE)
+
+
+def normalise_block(block: str) -> str:
+    """
+    Repair recipes whose line breaks were lost (e.g. copied from a chat window):
+      - put Category:/Source:/Ingredients:/Instructions: labels on their own lines
+      - split a run-together ingredient line at each quantity ("1/2 cup sake 1/4 cup ...")
+    Well-formed blocks pass through unchanged.
+    """
+    # 1. Labels in the middle of a line -> start a new line
+    out_lines = []
+    for line in block.splitlines():
+        parts = []
+        last = 0
+        for m in _LABEL_RE.finditer(line):
+            if m.start() > 0 and line[:m.start()].strip():
+                parts.append(line[last:m.start()].rstrip())
+                last = m.start()
+        parts.append(line[last:].lstrip())
+        out_lines.extend(p for p in parts if p.strip() or not parts)
+    # 2. Value on the same line as a section label -> next line
+    fixed = []
+    for line in out_lines:
+        m = re.match(r'^(Ingredients|Instructions|Directions|Method):\s*(\S.*)$', line, re.IGNORECASE)
+        if m:
+            fixed.append(m.group(1) + ':')
+            fixed.append(m.group(2))
+        else:
+            fixed.append(line)
+    # 3. Split run-together ingredients - ONLY when the whole Ingredients
+    #    section is a single line (a sign that line breaks were lost).
+    result = []
+    in_ingr = False
+    section = []
+    def flush():
+        if len(section) == 1 and len(_QTY_RE.findall(section[0])) >= 2:
+            result.extend(p.strip() for p in _QTY_RE.split(section[0]) if p.strip())
+        else:
+            result.extend(section)
+        section.clear()
+    for line in fixed:
+        low = line.strip().lower()
+        if low.startswith('ingredients'):
+            flush()
+            in_ingr = True
+            result.append(line)
+        elif low.startswith(('instructions', 'directions', 'method')):
+            flush()
+            in_ingr = False
+            result.append(line)
+        elif in_ingr:
+            if line.strip():
+                section.append(line)
+        else:
+            result.append(line)
+    flush()
+    return '\n'.join(result)
+
+
 def parse_block(block: str):
     """
     Parse a single recipe text block into a dict with keys:
         title, category, source, ingredients, instructions
     Returns None if the block doesn't look like a recipe.
     """
+    block = normalise_block(block)
     lines = [ln for ln in block.splitlines()]
 
     # Remove leading/trailing blank lines
@@ -517,6 +628,18 @@ def main():
         recipe = parse_block(block)
         if recipe is None:
             skipped.append(f"Block {i}: Could not parse (no title or content found)")
+            continue
+
+        # Sanity checks - refuse to write obviously malformed recipes
+        problems = []
+        if len(recipe['title']) > 80 or ':' in recipe['title']:
+            problems.append("title looks wrong (line breaks lost? paste the Gemini answer from its code box)")
+        if not recipe['ingredients']:
+            problems.append("no ingredients found")
+        if not recipe['instructions'].strip():
+            problems.append("no instructions found")
+        if problems:
+            errors.append(f"'{recipe['title'][:50]}': " + "; ".join(problems) + " - NOT imported")
             continue
 
         # Build derived fields

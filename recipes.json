@@ -773,6 +773,21 @@
     "snippet": "Butter, Eggs, White sugar, All purpose flour, and 4 more ingredients..."
   },
   {
+    "id": "gyu-dare-dipping-sauce-and-marinade",
+    "title": "Gyu Dare Dipping Sauce and Marinade",
+    "filename": "Gyu Dare Dipping Sauce and Marinade.html",
+    "category": "Condiments",
+    "source": "Family Recipe",
+    "ingredients": [
+      "3/4 cup soy sauce",
+      "1/2 cup sake",
+      "1/2 cup mirin",
+      "1/4 cup rice vinegar"
+    ],
+    "instructions": "Add the soy sauce, sake, mirin, and rice vinegar to a saucepan and bring it to a boil over medium heat.\nBoil for 1 minute, remove from the heat, and let the liquid cool to room temperature. Before using, refrigerate for at least 12 hours, or overnight, to give the flavors time to mingle. Gyu dare can keep in the refrigerator for up to 1 month.",
+    "snippet": "3/4 cup soy sauce, 1/2 cup sake, 1/2 cup mirin, 1/4 cup rice vinegar"
+  },
+  {
     "id": "homemade-bread",
     "title": "Homemade Bread",
     "filename": "Bread.html",
