@@ -303,6 +303,22 @@ window.__RECIPES_FALLBACK__ = [
     "snippet": "Chicken breasts, Butter, Dijon mustard, Salt, and 5 more ingredients..."
   },
   {
+    "id": "canadian-style-tea-biscuits",
+    "title": "Canadian Style Tea Biscuits",
+    "filename": "Canadian Style Tea Biscuits.html",
+    "category": "Baking",
+    "source": "Handwritten Note",
+    "ingredients": [
+      "2 cups flour",
+      "4 tsp baking powder",
+      "Salt",
+      "4 tbsp shortening",
+      "1 cup milk"
+    ],
+    "instructions": "Blend flour, baking powder, salt, and shortening well.\nAdd milk and stir to combine.\nBake at 400F for 8-10 mins.",
+    "snippet": "2 cups flour, 4 tsp baking powder, Salt, 4 tbsp shortening, and 1 more ingredient..."
+  },
+  {
     "id": "cape-breton-oatcakes",
     "title": "Cape Breton Oatcakes",
     "filename": "Cape Breton Oatcakes.html",
@@ -734,7 +750,7 @@ window.__RECIPES_FALLBACK__ = [
       "2 tsp. finely grated lemon zest",
       "2 Tbsp. fresh lemon juice"
     ],
-    "instructions": "1. Prepare Couscous Base: Prepare a grill for medium heat; oil grate. Combine couscous, baharat, and 1 1/2 tsp. Diamond Crystal or 1 tsp. Morton kosher salt in a large heatproof bowl. Pour in 1/2 cup plus 2 tsp. boiling water. Cover bowl with a kitchen towel; let sit 5 minutes.\n\n2. Mix Meat & Fillings: Using a fork, break up couscous. Add shallot, garlic, ground beef, cilantro, 1/2 cup finely chopped pistachios, 1 1/2 tsp. salt, and 1/2 tsp. black pepper to couscous. Gently mix to combine and set meat mixture aside.\n\n3. Pre-Char Peppers: Arrange bell peppers on a rimmed baking sheet. Drizzle with 1 Tbsp. oil and season with salt and pepper. Grill bell peppers cut side down until just starting to char (about 3 mins). Return to baking sheet skin side down to cool.\n\n4. Stuff & Grill: Lightly fill each bell pepper half with about 1/2 cup meat mixture. Arrange skin side down on grate. Cover and grill until peppers are tender and filling reaches 165°F (about 20 mins).\n\n5. Make Yogurt Sauce & Serve: Whisk yogurt, lemon zest, lemon juice, and remaining 1/2 tsp. salt in a small bowl. Top bell peppers with pistachios and serve with lemon yogurt.",
+    "instructions": "1. Prepare Couscous Base: Prepare a grill for medium heat; oil grate. Combine couscous, baharat, and 1 1/2 tsp. Diamond Crystal or 1 tsp. Morton kosher salt in a large heatproof bowl. Pour in 1/2 cup plus 2 tsp. boiling water. Cover bowl with a kitchen towel; let sit 5 minutes.\n\n2. Mix Meat & Fillings: Using a fork, break up couscous. Add shallot, garlic, ground beef, cilantro, 1/2 cup finely chopped pistachios, 1 1/2 tsp. salt, and 1/2 tsp. black pepper. Gently mix and set aside.\n\n3. Pre-Char Peppers: Drizzle halved bell peppers with 1 Tbsp. oil, salt, and pepper. Grill cut side down until just starting to char (about 3 mins). Let cool skin side down.\n\n4. Stuff & Grill: Lightly fill each bell pepper half with 1/2 cup meat mixture. Grill skin side down covered for about 20 minutes until filling registers 165°F.\n\n5. Serve: Whisk yogurt, lemon zest, lemon juice, and remaining 1/2 tsp. salt. Top peppers with pistachios and serve with lemon yogurt.",
     "snippet": "Vegetable oil, quick-cooking couscous, baharat, kosher salt, shallot, garlic, ground beef, and 7 more ingredients..."
   },
   {
@@ -1513,6 +1529,22 @@ window.__RECIPES_FALLBACK__ = [
     ],
     "instructions": "Shape ground meat and onion seasoned with salt and pepper into meatballs and place in a baking dish.\n\nIn a bowl, whisk together ketchup, dry mustard, vinegar, water, flour, and brown sugar until smooth to make the sweet and sour sauce.\n\nPour sauce generously over meatballs. Bake uncovered at 350°F for 1 hour.",
     "snippet": "Ground meat, Onion (finely chopped), Salt and pepper to taste, Ketchup, and 5 more ingredients..."
+  },
+  {
+    "id": "tea-biscuits",
+    "title": "Tea Biscuits",
+    "filename": "Tea Biscuits.html",
+    "category": "Baking",
+    "source": "Printed Cookbook",
+    "ingredients": [
+      "2 cups all purpose flour",
+      "4 teaspoons baking powder",
+      "1 teaspoon salt",
+      "1/2 cup shortening",
+      "1 cup milk"
+    ],
+    "instructions": "Preheat oven to 425F.\nSift together flour, baking powder, and salt.\nCut in shortening finely with a pastry blender or two knives.\nAdd milk and stir with a fork to make a soft dough.\nTurn dough onto a lightly floured surface and knead gently 8 to 10 times.\nRoll or pat to desired thickness.\nCut with a floured 1 3/4-inch cookie cutter.\nPlace biscuits on an ungreased baking sheet, close together for soft-sided biscuits or about 1 inch apart for crusty-sided biscuits.\nBake in preheated 425F oven for 12 to 15 minutes.\nMakes 20 biscuits.",
+    "snippet": "2 cups all purpose flour, 4 teaspoons baking powder, 1 teaspoon salt, 1/2 cup shortening, and 1 more ingredient..."
   },
   {
     "id": "whipped-scotch-cookies",

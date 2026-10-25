@@ -1,0 +1,248 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww12000\viewh15000\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28\b \cf0 ============================================================\
+HOW TO USE THIS FILE  -  Family Recipes Importer\
+============================================================\b0\fs24\
+\
+This file is a staging area for new recipes.\
+\
+When ready to import, open Terminal and run:\
+\
+\f1    cd "/Users/garyburrell/Documents/Family Recipes/Family-Recipes-main"\
+   python3 add_recipes.py\f0\
+\
+The script will:\
+  - Parse every recipe below the ADD RECIPES line at the bottom\
+  - Create an individual HTML page for each new recipe\
+  - Update recipes.json and recipes-data.js automatically\
+  - Skip any recipe already in the collection (safe to re-run)\
+\
+After a successful import, delete the recipes you just added\
+(below the ADD RECIPES line) and save this file ready for next time.\
+Keep this instructions block - it is automatically ignored by the script.\
+\
+\
+\b ============================================================\
+RECIPE FORMAT\
+============================================================\b0\
+\
+Copy this template for each recipe. Fields are NOT case-sensitive.\
+Separate multiple recipes with a line of three dashes: ---\
+\
+\f1 Recipe Title Here\
+Category: <see list below>\
+Source: <who the recipe is from>\
+\
+Ingredients:\
+<one ingredient per line>\
+\
+Instructions:\
+<free text - as many lines as you need>\
+---\f0\
+\
+\b Available categories:\b0\
+  Appetizers, Beverages, Breads, Cakes, Cookies, Desserts,\
+  Main Dishes, Muffins, Pies & Tarts, Salads, Squares & Bars,\
+  Soups, Sides, Condiments, Breakfast, Snacks\
+  (or type any new category - it will be created automatically)\
+\
+\b Source examples:\b0\
+  Mum, Grandma, Aunt Edna, Handwritten Note, Printed Cookbook,\
+  Magazine Clipping, or any person/source name you like.\
+\
+\
+\b ============================================================\
+GEMINI AI PROMPTS\
+============================================================\b0\
+\
+Use these prompts at gemini.google.com to convert recipes into the\
+correct format. Copy the prompt, add your content, and paste the\
+result into this file below the ADD RECIPES line.\
+\
+\
+\b PROMPT 1 - Convert a photo of a recipe card or cookbook page:\b0\
+\
+    Attach your photo to Gemini, then send this message:\
+\
+\f1     I have a photo of a recipe. Please transcribe it into this\
+    exact plain-text format. Return ONLY the formatted recipe\
+    with no extra explanation or commentary:\
+\
+    [Recipe Title]\
+    Category: [choose the best fit from: Appetizers, Beverages,\
+    Breads, Cakes, Cookies, Desserts, Main Dishes, Muffins,\
+    Pies & Tarts, Salads, Squares & Bars, Soups, Sides,\
+    Condiments, Breakfast, Snacks]\
+    Source: [author or source if visible in the photo,\
+    otherwise use "Family Recipe"]\
+\
+    Ingredients:\
+    [one ingredient per line, preserving exact quantities and units]\
+\
+    Instructions:\
+    [full instructions as written, preserving all steps]\
+    ---\f0\
+\
+\
+\b PROMPT 2 - Convert a recipe from an email or website:\b0\
+\
+    Copy the recipe text. Then send Gemini this message\
+    with the recipe text pasted at the bottom:\
+\
+\f1     Please reformat the following recipe into this exact\
+    plain-text format. Return ONLY the formatted result\
+    with no extra explanation or commentary:\
+\
+    [Recipe Title]\
+    Category: [choose the best fit from: Appetizers, Beverages,\
+    Breads, Cakes, Cookies, Desserts, Main Dishes, Muffins,\
+    Pies & Tarts, Salads, Squares & Bars, Soups, Sides,\
+    Condiments, Breakfast, Snacks]\
+    Source: [author, publication, or website name]\
+\
+    Ingredients:\
+    [one ingredient per line, preserving exact quantities and units]\
+\
+    Instructions:\
+    [full instructions, preserving all steps]\
+    ---\
+\
+    RECIPE TO CONVERT:\
+    [paste recipe text here]\f0\
+\
+\
+\b PROMPT 3 - Convert handwritten notes or rough text:\b0\
+\
+    Type or paste your rough notes into Gemini with this message:\
+\
+\f1     I have rough recipe notes. Please organize them into this\
+    exact plain-text format. Infer any missing details reasonably\
+    (e.g. standard oven temperatures or typical quantities).\
+    Return ONLY the formatted result with no extra commentary:\
+\
+    [Recipe Title]\
+    Category: [choose the best fit from: Appetizers, Beverages,\
+    Breads, Cakes, Cookies, Desserts, Main Dishes, Muffins,\
+    Pies & Tarts, Salads, Squares & Bars, Soups, Sides,\
+    Condiments, Breakfast, Snacks]\
+    Source: [use "Family Recipe" if unknown]\
+\
+    Ingredients:\
+    [one ingredient per line with quantities - infer standard\
+    amounts if not specified in the notes]\
+\
+    Instructions:\
+    [clear numbered steps based on the notes]\
+    ---\
+\
+    MY NOTES:\
+    [paste your notes here]\f0\
+\
+\
+\b EXAMPLE - what a correctly formatted recipe looks like:\b0\
+\
+\f1 Chocolate Chip Cookies\
+Category: Cookies\
+Source: Mum\
+\
+Ingredients:\
+2 1/4 cups all-purpose flour\
+1 tsp baking soda\
+1 tsp salt\
+1 cup butter (softened)\
+3/4 cup granulated sugar\
+3/4 cup packed brown sugar\
+2 large eggs\
+2 tsp vanilla extract\
+2 cups chocolate chips\
+\
+Instructions:\
+Preheat oven to 375F.\
+Combine flour, baking soda and salt in a bowl.\
+Beat butter and both sugars until creamy. Add eggs and vanilla.\
+Gradually blend in flour mixture. Stir in chocolate chips.\
+Drop rounded tablespoons onto ungreased baking sheets.\
+Bake 9 to 11 minutes or until golden brown.\
+Cool on baking sheets 2 minutes then transfer to wire racks.\
+---\f0\
+\
+\
+\b ============================================================\
+HOW THE PYTHON SCRIPT WORKS  (add_recipes.py)\
+============================================================\b0\
+\
+The script lives in the same folder as this file:\
+\f1   /Users/garyburrell/Documents/Family Recipes/Family-Recipes-main/add_recipes.py\f0\
+\
+\b Run it from Terminal:\b0\
+\f1   cd "/Users/garyburrell/Documents/Family Recipes/Family-Recipes-main"\
+   python3 add_recipes.py\f0\
+\
+  Or point it at a different RTF file:\
+\f1   python3 add_recipes.py ~/Desktop/more_recipes.rtf\f0\
+\
+\
+\b What the script does, step by step:\b0\
+\
+  1. READS this RTF file and strips all RTF formatting codes\
+     to get plain text.\
+\
+  2. SKIPS everything above "ADD YOUR NEW RECIPES BELOW THIS LINE"\
+     so instructions, prompts and examples are never imported.\
+\
+  3. SPLITS the remaining text into recipe blocks wherever it\
+     finds a --- separator line.\
+\
+  4. PARSES each block looking for:\
+       - First line (or "Title:" line)  ->  recipe title\
+       - "Category:" line               ->  category tag\
+       - "Source:" line                 ->  attribution\
+       - "Ingredients:" section         ->  one ingredient per line\
+       - "Instructions:" section        ->  free-form method text\
+\
+  5. CHECKS for duplicates against recipes.json. Any recipe\
+     whose title already exists is skipped safely.\
+\
+  6. WRITES a new HTML file for each new recipe using the same\
+     visual template as all the other recipe pages.\
+     File name is derived from the recipe title, e.g.:\
+       "Chocolate Chip Cookies"  ->  Chocolate Chip Cookies.html\
+\
+  7. UPDATES recipes.json - appends the new entries and re-sorts\
+     the whole list alphabetically by title.\
+\
+  8. REGENERATES recipes-data.js from the updated recipes.json\
+     so the site works when opened directly from the file system\
+     (not just via a web server).\
+\
+  9. PRINTS a summary showing how many recipes were added,\
+     skipped, or had errors.\
+\
+\
+\b Files the script reads/writes:\b0\
+\
+  new_recipes.rtf    <-- this file (input, never modified)\
+  recipes.json       <-- master recipe data (updated)\
+  recipes-data.js    <-- JS version of same data (regenerated)\
+  [Title].html       <-- one new HTML file per recipe (created)\
+\
+\
+\b If something goes wrong:\b0\
+\
+  - Re-running the script is always safe - it skips duplicates.\
+  - recipes.json is the source of truth. If an HTML file looks\
+    wrong, delete it and the entry from recipes.json, fix the\
+    recipe in this RTF file, and re-run.\
+  - The original backup is saved in: original_backup.zip\
+\
+\
+\b ============================================================\
+ADD YOUR NEW RECIPES BELOW THIS LINE\
+============================================================\b0\
+\
+}
