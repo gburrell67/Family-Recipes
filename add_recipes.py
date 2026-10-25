@@ -317,11 +317,13 @@ def title_to_filename(title: str) -> str:
 
 
 def make_snippet(ingredients: list) -> str:
-    """Generate a short ingredient preview snippet."""
-    shown = [i.split(',')[0].split('(')[0].strip() for i in ingredients[:4]]
+    """Generate a short ingredient preview snippet, skipping section headers."""
+    # Filter out section headers like --- Cookie Cups ---
+    real = [i for i in ingredients if not re.match(r'^-{2,3}\s*.+\s*-{2,3}$', i.strip())]
+    shown = [i.split(',')[0].split('(')[0].strip() for i in real[:4]]
     # Title-case each shown ingredient for display
     shown = [s.title() if s.upper() == s else s for s in shown]
-    rest = len(ingredients) - len(shown)
+    rest = len(real) - len(shown)
     snippet = ', '.join(shown)
     if rest > 0:
         snippet += f', and {rest} more ingredient{"s" if rest != 1 else ""}...'
@@ -372,6 +374,26 @@ def escape_html_preserve_br(text: str) -> str:
     return text
 
 
+def build_ingredients_html(ingredients: list) -> str:
+    """
+    Render the ingredients list as HTML <li> items.
+    Lines matching  --- Section Name ---  become styled section subheadings.
+    """
+    lines = []
+    for item in ingredients:
+        # Detect section header: --- anything ---
+        m = re.match(r'^-{2,3}\s*(.+?)\s*-{2,3}$', item.strip())
+        if m:
+            label = escape_html(m.group(1))
+            lines.append(
+                f'          <li class="ingredient-section-header">'
+                f'<strong>{label}</strong></li>'
+            )
+        else:
+            lines.append(f'          <li>{escape_html(item)}</li>')
+    return '\n'.join(lines)
+
+
 def build_html(recipe: dict) -> str:
     """Return the full HTML content for a recipe page."""
     title     = escape_html(recipe['title'])
@@ -379,9 +401,7 @@ def build_html(recipe: dict) -> str:
     source    = escape_html(recipe['source'])
     desc      = escape_html(recipe['snippet'])
 
-    ingr_items = '\n'.join(
-        f'          <li>{escape_html(i)}</li>' for i in recipe['ingredients']
-    )
+    ingr_items = build_ingredients_html(recipe['ingredients'])
 
     instr_html = format_instructions_html(recipe['instructions'])
 
