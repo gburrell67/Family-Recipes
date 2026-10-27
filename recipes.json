@@ -2,7 +2,7 @@
   {
     "id": "apple-crunch",
     "title": "Apple Crunch",
-    "filename": "APPLE CRUNCH.html",
+    "filename": "Apple Crunch.html",
     "category": "Desserts",
     "source": "Mum",
     "ingredients": [
@@ -13,7 +13,7 @@
       "1 cup Special K Cereal"
     ],
     "instructions": "Peel and cut apples into small pieces. Place evenly in a greased baking dish.\n\nCombine butter, flour, and brown sugar until crumbly, then gently fold in Special K cereal.\n\nSpread cereal mixture evenly over apples.\n\nBake at 375°F for about 30 minutes until apples are tender and top is golden and crunchy.",
-    "snippet": "Or 6 medium apples, Flour, Brown sugar, Butter, and 1 more ingredients..."
+    "snippet": "5 or 6 medium Apples, 1/3 cup Flour, 3/4 cup Brown Sugar, 1/3 cup Butter, and 1 more ingredient..."
   },
   {
     "id": "aunt-edna-s-mincemeat",
@@ -45,56 +45,55 @@
       "2 Nutmeg (grated)"
     ],
     "instructions": "Grind cooked meat. Put apples through meat grinder. Combine with uncooked suet, apple juice, vinegar, citron, molasses, sugar, raisins, salt, citrus juices, and ground spices.\n\nCook mixture slowly until apples and suet are completely transparent, stirring frequently while cooking. Add a little water if needed.\n\nSeal in 16 oz jars for holiday mincemeat pies.",
-    "snippet": "Seedless raisins, Apple juice, Vinegar, and 17 more ingredients..."
+    "snippet": "1 lb. Seedless Raisins, 1/2 can Apple Juice, 1/2 cup Vinegar, Brown Sugar to taste, and 15 more ingredients..."
   },
   {
     "id": "banana-chocolate-chip-muffins",
     "title": "Banana Chocolate Chip Muffins",
-    "filename": "BANANA CHOCOLATE CHIP MUFFINS.html",
+    "filename": "Banana Chocolate Chip Muffins.html",
     "category": "Muffins",
     "source": "Mum",
     "ingredients": [
-      "2 EGGS",
-      "1 CUP MASHED BANANAS",
-      "1/3 CUP MELTED BUTTER",
-      "1 3/4 CUP FLOUR",
-      "1/4 CUP NUTS",
-      "1/2 CUP SUGAR",
-      "4 TSP. BAKING POWDER",
-      "1/2 TSP. SALT",
-      "1/2 CUP CHOCOLATE CHIPS"
+      "2 Eggs",
+      "1 cup Mashed Bananas",
+      "1/3 cup melted Butter",
+      "1 3/4 cup Flour",
+      "1/4 cup Nuts",
+      "1/2 cup Sugar",
+      "4 tsp. Baking Powder",
+      "1/2 tsp. Salt",
+      "1/2 cup Chocolate Chips"
     ],
-    "instructions": "BAKE 400 10 -15 MINS.",
-    "snippet": "Eggs, Mashed bananas, Melted butter, Flour, and 5 more ingredients..."
+    "instructions": "Preheat oven to 400°F. Grease a muffin tin.\n\nBeat eggs. Stir in mashed bananas and melted butter. In another bowl combine flour, sugar, baking powder and salt. Add banana mixture and stir just until moistened. Fold in nuts and chocolate chips.\n\nFill muffin cups. Bake 400 10 -15 mins.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "2 Eggs, 1 cup Mashed Bananas, 1/3 cup melted Butter, 1 3/4 cup Flour, and 5 more ingredients..."
   },
   {
     "id": "banana-cream-pie",
     "title": "Banana Cream Pie",
-    "filename": "BANANA CREAM PIE.html",
+    "filename": "Banana Cream Pie.html",
     "category": "Pies & Tarts",
     "source": "Mum",
     "ingredients": [
-      "3/4 CUP SUGAR",
-      "3 TBSP. CORN STARCH",
-      "1/2 TSP. SALT",
-      "2 CUPS MILK",
-      "3 EGG YOKES",
-      "1 TSP. VANILLA",
-      "MERINGNE:",
-      "3 EGG WHITES",
-      "3 TBSP. WATER",
-      "1/4 CUP SUGAR",
-      "DASH OF SALT",
-      "CORN STARCH",
-      "SALT TOGETHER."
+      "--- Filling ---",
+      "3/4 cup Sugar",
+      "3 Tbsp. Corn Starch",
+      "1/2 tsp. Salt",
+      "2 cups Milk",
+      "3 Egg Yolks",
+      "1 tsp. Vanilla",
+      "--- Meringue ---",
+      "3 Egg Whites",
+      "3 Tbsp. Water",
+      "1/4 cup Sugar",
+      "Dash of Salt"
     ],
-    "instructions": "MIX SUGAR\nIN A SAUCE PAN. COOK OVER MEDIUM HEAT UNTIL IT BEGINS TO THICKEN. ADD EGG YOKES\nBEATING WELL. COOK UNTIL THICK. ADD VANILLA. COOL PLACE 1/3 OF FILLING IN BAKED PIE SHELL. ADD LAYER OF BANANAS . REPEAT. FINISHING WITH FILLING. COVER WITH MERINGNE. BAKE 425 UNTIL MERINGNE IS GOLDEN BROWN.",
-    "snippet": "Sugar, Corn starch, Salt, Milk, and 9 more ingredients..."
+    "instructions": "Mix sugar, corn starch and salt together in a saucepan. Add milk. Cook over medium heat until it begins to thicken. Add egg yolks, beating well. Cook until thick. Add vanilla. Cool.\n\nPlace 1/3 of filling in baked pie shell. Add layer of bananas. Repeat, finishing with filling. Cover with meringue. Bake 425 until meringue is golden brown.",
+    "snippet": "3/4 cup Sugar, 3 Tbsp. Corn Starch, 1/2 tsp. Salt, 2 cups Milk, and 6 more ingredients..."
   },
   {
     "id": "banana-doughnuts",
     "title": "Banana Doughnuts",
-    "filename": "BANANA DOUGHNUTS.html",
+    "filename": "Banana Doughnuts.html",
     "category": "Doughnuts",
     "source": "Mum",
     "ingredients": [
@@ -111,53 +110,48 @@
       "1 tsp. Nutmeg"
     ],
     "instructions": "Cream shortening and sugar; beat in vanilla and eggs. Blend in mashed bananas and buttermilk.\n\nSift dry ingredients together and add to banana mixture to form dough.\n\nChill dough thoroughly before rolling. Turn out onto lightly floured surface, knead gently, roll, and cut into doughnut shapes.\n\nFry in deep hot oil (375°F) until golden brown on both sides. Drain on paper towels.",
-    "snippet": "Shortening, Sugar, Vanilla, Eggs, and 7 more ingredients..."
+    "snippet": "1/4 cup Shortening, 1 cup Sugar, 1 1/2 tsp. Vanilla, 3 Eggs, and 7 more ingredients..."
   },
   {
     "id": "banana-squares",
     "title": "Banana Squares",
-    "filename": "BANANA SQUARES.html",
+    "filename": "Banana Squares.html",
     "category": "Squares & Bars",
     "source": "Mum",
     "ingredients": [
-      "1/4 CUP BUTTER",
-      "1/4 CUP SOUR MILK",
-      "1/2 TSP. BAKING SODA",
-      "1 CUP FLOUR",
-      "3/4 CUP WHITE SUGAR",
-      "1 EGG",
-      "1/2 TSP. BAKING POWDER",
-      "1/2 CUP MASHED BANANAS"
+      "1/4 cup Butter",
+      "1/4 cup Sour Milk",
+      "1/2 tsp. Baking Soda",
+      "1 cup Flour",
+      "3/4 cup White Sugar",
+      "1 Egg",
+      "1/2 tsp. Baking Powder",
+      "1/2 cup Mashed Bananas"
     ],
-    "instructions": "BAKE 350 - 30 MINS.",
-    "snippet": "Butter, Sour milk, Baking soda, Flour, and 4 more ingredients..."
+    "instructions": "Preheat oven to 350°F. Grease a 9 x 9 inch pan.\n\nCream butter and sugar until light. Beat in egg. Dissolve baking soda in the sour milk. Stir flour and baking powder together and add to the creamed mixture alternately with the sour milk. Stir in mashed bananas.\n\nSpread batter in pan. Bake 350 - 30 mins. Cool and cut into squares.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "1/4 cup Butter, 1/4 cup Sour Milk, 1/2 tsp. Baking Soda, 1 cup Flour, and 4 more ingredients..."
   },
   {
     "id": "barbecued-pork-chops",
     "title": "Barbecued Pork Chops",
-    "filename": "BARBECUED PORK CHOPS.html",
+    "filename": "Barbecued Pork Chops.html",
     "category": "Main Dishes",
     "source": "Mum",
     "ingredients": [
-      "1 MEDIUM ONION CHOPPED",
-      "1/2 CUP WATER",
-      "1/4 CUP VINEGAR",
-      "1 TBSP. LEMON JUICE",
-      "2 TBSP. BROWN SUGAR",
-      "2 TSP. DRY MUSTARD",
-      "2 TSP. SALT",
-      "1/2 TSP. PEPPER",
-      "1/2 CUP CATSUP",
-      "2 TSP. WORCESTERSHIRE SAUCE",
-      "4 PORK CHOPS",
-      "WATER",
-      "VINEGAR",
-      "LEMON JUICE",
-      "BROWM SUGAR",
-      "MUSTARD"
+      "1 medium Onion chopped",
+      "1/2 cup Water",
+      "1/4 cup Vinegar",
+      "1 Tbsp. Lemon Juice",
+      "2 Tbsp. Brown Sugar",
+      "2 tsp. Dry Mustard",
+      "2 tsp. Salt",
+      "1/2 tsp. Pepper",
+      "1/2 cup Ketchup",
+      "2 tsp. Worcestershire Sauce",
+      "4 Pork Chops"
     ],
-    "instructions": "MIX ONION\nSALT AND PEPPER IN A SAUCEPAN. COOK AND STIR OVER LOW HEAT UNTIL HOT. ADD CATSUP AND WORCHESTERSHIRE SAUCE. BRING TO A BOIL. REMOVE FROM HEAT. PLACE PORK CHOPS IN A BAKING DISH POUR HALF THE SAUCE OVER THE PORK CHOPS. BAKE UNCOVERED 350 FOR 30 MINS. TURN BAKE 20- 30 MINS. LONGER.",
-    "snippet": "Medium onion chopped, Water, Vinegar, Lemon juice, and 12 more ingredients..."
+    "instructions": "Saute onion with salt and pepper in a saucepan until onion is tender. Add water, vinegar, lemon juice, brown sugar, dry mustard, ketchup and Worcestershire sauce. Bring to a boil. Remove from heat. Place pork chops in a baking dish. Pour half the sauce over the pork chops. Bake uncovered at 350 for 30 mins. turn and bake 20-30 mins. longer.",
+    "snippet": "1 medium Onion chopped, 1/2 cup Water, 1/4 cup Vinegar, 1 Tbsp. Lemon Juice, and 7 more ingredients..."
   },
   {
     "id": "beef-don",
@@ -167,24 +161,20 @@
     "source": "Mum",
     "ingredients": [
       "1/2 lb Beef",
-      "1/2 onion",
-      "3 Tbsp sugar",
-      "3 Tbsp Soy Sauce",
-      "2 Tbsp Sake or white wine",
-      "1/2 cup water",
-      "1 Tbsp Dashi-no-moto (Seaweed powder)",
-      "sake",
-      "wine",
-      "water",
-      "soy sauce and Dashi-no-moto together. Bring to boil"
+      "1/2 Onion",
+      "3 Tbsp. Sugar",
+      "3 Tbsp. Soy Sauce",
+      "2 Tbsp. Sake or white wine",
+      "1/2 cup Water",
+      "1 Tbsp. Dashi-no-moto (Seaweed powder)"
     ],
-    "instructions": "Mix sugar\nadd sliced (1 cm wide strips) onion. When onion is fully cooked add thinly sliced beef. When beef is cooked serve over rice bowl.",
-    "snippet": "Beef, Onion, Sugar, Soy sauce, and 7 more ingredients..."
+    "instructions": "Mix sugar, sake (or wine), water, soy sauce and Dashi-no-moto together. Bring to boil.\n\nAdd sliced (1 cm wide strips) onion. When onion is fully cooked add thinly sliced beef. When beef is cooked serve over rice bowl.",
+    "snippet": "1/2 lb Beef, 1/2 Onion, 3 Tbsp. Sugar, 3 Tbsp. Soy Sauce, and 3 more ingredients..."
   },
   {
     "id": "best-blueberry-muffins",
     "title": "Best Blueberry Muffins",
-    "filename": "BEST Blueberry Muffins.html",
+    "filename": "Best Blueberry Muffins.html",
     "category": "Muffins",
     "source": "Mum",
     "ingredients": [
@@ -199,12 +189,12 @@
       "Sugar for sprinkling on top"
     ],
     "instructions": "Cream butter and sugar until light and fluffy. Add beaten eggs and blend well.\n\nWhisk flour, baking powder, and salt together; add to creamed mixture alternately with milk until just blended.\n\nCarefully fold in fresh blueberries.\n\nSpoon into greased muffin cups and sprinkle tops lightly with sugar.\n\nBake at 350°F for 20-25 minutes until tops spring back when lightly touched.",
-    "snippet": "Sugar, Butter, Eggs, Flour, and 5 more ingredients..."
+    "snippet": "1 1/4 cups Sugar, 1/2 cup Butter, 2 Eggs, 2 cups Flour, and 5 more ingredients..."
   },
   {
     "id": "blue-magic-tart",
     "title": "Blue Magic Tart",
-    "filename": "Blue Magic.html",
+    "filename": "Blue Magic Tart.html",
     "category": "Pies & Tarts",
     "source": "Mum",
     "ingredients": [
@@ -215,35 +205,35 @@
       "Whipped Cream (for topping)"
     ],
     "instructions": "In a bowl, blend sweetened condensed milk and lemon juice together until thickened.\n\nGently fold in fresh blueberries.\n\nPour filling into a baked pie shell or individual tart shells.\n\nCover generously with whipped cream and garnish with additional fresh blueberries. Chill before serving.",
-    "snippet": "Fresh blueberries, Sweetened condensed milk, Lemon juice, Baked pie shell or tart shells, and 1 more ingredients..."
+    "snippet": "1 cup Fresh Blueberries, 1 can Sweetened Condensed Milk, 1/4 cup Lemon Juice, 1 Baked Pie Shell or Tart Shells, and 1 more ingredient..."
   },
   {
     "id": "blueberry-tea-cake",
     "title": "Blueberry Tea Cake",
-    "filename": "BLUEBERRY TEA CAKE.html",
+    "filename": "Blueberry Tea Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
-      "2 CUPS FLOUR",
-      "2 TSP. BAKING POWDER",
-      "1/2 TSP. SALT",
-      "1/4 CUP SHORTENING",
-      "3/4 CUP SUGAR",
-      "2 CUPS BLUEBERRIES",
-      "1 EGG BEATEN",
-      "1/2 CUP MILK",
-      "TOPPING 1/2 CUP SUGAR",
-      "1/4 CUP FLOUR",
-      "1/2 TSP. CINNAMON",
-      "1/4 CUP BUTTER"
+      "2 cups Flour",
+      "2 tsp. Baking Powder",
+      "1/2 tsp. Salt",
+      "1/4 cup Shortening",
+      "3/4 cup Sugar",
+      "2 cups Blueberries",
+      "1 Egg beaten",
+      "1/2 cup Milk",
+      "Topping 1/2 cup Sugar",
+      "1/4 cup Flour",
+      "1/2 tsp. Cinnamon",
+      "1/4 cup Butter"
     ],
-    "instructions": "BAKE 375 FOR ABOUT 40-45 MINS",
-    "snippet": "Flour, Baking powder, Salt, Shortening, and 8 more ingredients..."
+    "instructions": "Preheat oven to 375°F. Grease a 9 x 9 inch pan.\n\nCream shortening and sugar. Beat in egg. Sift flour, baking powder and salt and add alternately with the milk. Gently fold in blueberries. Spread in pan.\n\nTopping: Mix sugar, flour and cinnamon. Cut in butter until crumbly. Sprinkle over batter.\n\nBake 375 for about 40-45 mins.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "2 cups Flour, 2 tsp. Baking Powder, 1/2 tsp. Salt, 1/4 cup Shortening, and 8 more ingredients..."
   },
   {
     "id": "bohemian-braid",
     "title": "Bohemian Braid",
-    "filename": "BOHEMIAN BRAID.html",
+    "filename": "Bohemian Braid.html",
     "category": "Breads",
     "source": "Mum",
     "ingredients": [
@@ -262,45 +252,47 @@
       "4 1/4 to 4 3/4 cups Flour"
     ],
     "instructions": "Soak yeast in 1/2 cup warm water for 5 minutes. Beat in milk, sugar, salt, shortening, eggs, lemon rind, and mace with 1 cup flour until smooth.\n\nStir in candied fruit, raisins, and almonds. Gradually add remaining flour until dough forms. Knead on floured surface until smooth and elastic. Place in greased bowl, cover, and let rise until doubled.\n\nDivide dough into 4 parts. Shape 3 parts into 9-inch ropes and braid them into a base loaf. Divide the 4th part into 3 smaller ropes, braid, and place on top of base loaf. Let rise 45-60 minutes.\n\nBake at 350°F for 40-50 minutes. While warm, frost with thin vanilla icing and garnish with candied cherries.",
-    "snippet": "Warm water, S. dry yeast, Lukewarm milk, Sugar, and 9 more ingredients..."
+    "snippet": "1/2 cup Warm Water, 2 pkgs. Dry Yeast, 3/4 cup Lukewarm Milk, 1/4 cup Sugar, and 9 more ingredients..."
   },
   {
     "id": "broccoli-chicken",
     "title": "Broccoli Chicken",
-    "filename": "BROCCOLI  CHICKEN.html",
+    "filename": "Broccoli Chicken.html",
     "category": "Main Dishes",
     "source": "Mum",
     "ingredients": [
-      "1 CUP MAYONAISE",
-      "1 CAN CREAM OF CHICKEN SOUP",
-      "1 CAN CHEDDAR CHEESE SOUP",
-      "4 TBSP. LEMON JUICE",
-      "PEPPER",
-      "PAPRIKA",
-      "PARMESAN CHEESE"
+      "1 Chicken (cooked and cut up)",
+      "Broccoli (cooked until tender)",
+      "1 cup Mayonnaise",
+      "1 can Cream of Chicken Soup",
+      "1 can Cheddar Cheese Soup",
+      "4 Tbsp. Lemon Juice",
+      "Pepper",
+      "Paprika",
+      "Parmesan Cheese"
     ],
-    "instructions": "1 CHICKEN (COOKED AND CUT UP)\nBROCCOLI ( COOKED UNTIL TENDER)\nBAKE 350 30 MINS. 13\"\" X9\"\" PAN",
-    "snippet": "Mayonaise, Cream of chicken soup, Cheddar cheese soup, Lemon juice, and 3 more ingredients..."
+    "instructions": "Preheat oven to 350°F. Grease a 13\" x 9\" pan.\n\nArrange cooked broccoli in the pan and top with the cooked, cut up chicken. Mix mayonnaise, cream of chicken soup, cheddar cheese soup and lemon juice and pour over the chicken. Sprinkle with pepper, Parmesan cheese and paprika.\n\nBake 350 for 30 mins in a 13\" x 9\" pan, until bubbly.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "1 Chicken, Broccoli, 1 cup Mayonnaise, 1 can Cream of Chicken Soup, and 5 more ingredients..."
   },
   {
     "id": "buffet-chicken",
     "title": "Buffet Chicken",
-    "filename": "BUFFET CHICKEN.html",
+    "filename": "Buffet Chicken.html",
     "category": "Main Dishes",
     "source": "Mum",
     "ingredients": [
-      "4 CHICKEN BREASTS",
-      "1/4 CUP BUTTER",
-      "1/4 CUP DIJON MUSTARD",
-      "1 TSP. SALT",
-      "1/8 TSP. GARLIC POWDER OR CRUSHED GARLIC",
-      "1/2 CUP HONEY",
-      "2 TSP. CURRY POWDER",
-      "2 TSP LEMON OR LIME JUICE",
-      "2 TBSP. PREPARED MUSTARD"
+      "4 Chicken Breasts",
+      "1/4 cup Butter",
+      "1/4 cup Dijon Mustard",
+      "1 tsp. Salt",
+      "1/8 tsp. Garlic Powder or crushed Garlic",
+      "1/2 cup Honey",
+      "2 tsp. Curry Powder",
+      "2 tsp Lemon or Lime Juice",
+      "2 Tbsp. Prepared Mustard"
     ],
-    "instructions": "PREHEAT OVEN 350 MELT BUTTER IN SAUCE PAN. ADD REMAINING INGREDIENTS. POUR OVER CHICKEN. BAKE 45 MINS. BASTE OCCASSIONLY.",
-    "snippet": "Chicken breasts, Butter, Dijon mustard, Salt, and 5 more ingredients..."
+    "instructions": "Preheat oven 350 melt butter in sauce pan. Add remaining ingredients. Pour over chicken. Bake 45 mins. baste occasionally.",
+    "snippet": "4 Chicken Breasts, 1/4 cup Butter, 1/4 cup Dijon Mustard, 1 tsp. Salt, and 5 more ingredients..."
   },
   {
     "id": "canadian-style-tea-biscuits",
@@ -335,50 +327,57 @@
       "3/4 tsp. Baking Powder"
     ],
     "instructions": "1. The Coarse Pulse: Add 1 1/4 cups flour, 1/3 cup brown sugar, 1/4 cup white sugar, salt, and baking powder to food processor. Run for 10 seconds to eliminate lumps. Add 1 1/4 cups rolled oats. Pulse exactly 4 times to coarsely crack flakes without turning into flour.\n\n2. Wet Bind & Knead: Pour 8 tablespoons hot melted butter and 2 tablespoons boiling water directly over dry mixture. Pulse 6 times until dough resembles wet sand. Turn out onto clean surface and press firmly into a cohesive, warm disc.\n\n3. Template & Roll Ultra-Thin: Draw a 10x12-inch rectangle on parchment paper. Flip pencil-side down. Place dough in center, cover with second parchment sheet, and roll firmly to fill template completely (guaranteeing exact 1/8-inch thickness).\n\n4. Flash Freeze & Slice: Peel off top parchment. Trim edges cleanly to match template lines. Slide dough on paper onto a tray and freeze for 15 minutes until solid. Slice cleanly into an 8x5 grid to create 40 small rectangles.\n\n5. Airflow Spacing & Hot Bake: Preheat oven to 300°F (150°C) with Convection (or 325°F / 160°C Standard). Distribute 40 pieces evenly across 4 small black single-layer aluminum pans, leaving a 1-inch empty channel down center of each pan. Bake for 32 to 36 minutes until uniformly deep-golden, rotating pans front-to-back halfway through.\n\n6. Residual Heat Setup: Let sit on hot pans undisturbed for 10 minutes to finish crisping. Transfer to wire rack for 20 minutes until completely cold and snap-brittle.",
-    "snippet": "Rolled oats, flour, brown sugar, butter, and 4 more ingredients..."
+    "snippet": "1 1/4 cups, 1 1/4 cups, 1/3 cup, 1/4 cup, and 4 more ingredients..."
   },
   {
     "id": "carrot-cake",
     "title": "Carrot Cake",
-    "filename": "CARROT CAKE.html",
+    "filename": "Carrot Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
-      "2 CUPS SUGAR",
-      "4 EGGS",
-      "2 CUPS FLOUR",
-      "2 TSP. BAKING POWDER",
-      "1 TSP. SODA",
-      "1 TSP. SALT",
-      "2 TSP. CINNAMON",
-      "3 CUPS GRATED RAW CARROTS",
-      "1 CUP FINELY CHOPPED WALNUTS"
+      "--- Cake ---",
+      "2 cups Sugar",
+      "4 Eggs",
+      "2 cups Flour",
+      "2 tsp. Baking Powder",
+      "1 tsp. Soda",
+      "1 tsp. Salt",
+      "2 tsp. Cinnamon",
+      "3 cups grated Raw Carrots",
+      "1 cup finely chopped Walnuts",
+      "1 cup Cooking Oil",
+      "--- Cream Cheese Icing ---",
+      "1 8 oz. package Cream Cheese",
+      "1 Tbsp. Cooking Oil",
+      "1 tsp. Vanilla",
+      "3 1/2 cups Icing Sugar",
+      "1/4 tsp. Salt"
     ],
-    "instructions": "1 CUP COOKING OIL\nBAKE 325 FOR ABOUT 1 HOUR\nCREAM CHEESE ICING 1 8OZ. PACKAGE CREAM CHEESE 1 TBSP. COOKING OIL 1 TSP. VANILLA 3 1/2 CUPS ICING SUGAR 1/4 TSP. SALT",
-    "snippet": "Sugar, Eggs, Flour, Baking powder, and 5 more ingredients..."
+    "instructions": "Preheat oven to 325°F. Grease and flour a 9 x 13 inch pan.\n\nBeat sugar, cooking oil and eggs together. Sift flour, baking powder, soda, salt and cinnamon and blend into the egg mixture. Fold in grated carrots and walnuts. Pour into pan.\n\nBake 325 for about 1 hour. Cool completely.\n\nIcing: Beat cream cheese, cooking oil and vanilla until smooth. Gradually beat in icing sugar and salt. Spread over cooled cake.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "2 cups Sugar, 4 Eggs, 2 cups Flour, 2 tsp. Baking Powder, and 11 more ingredients..."
   },
   {
     "id": "cheese-ball",
     "title": "Cheese Ball",
-    "filename": "CHEESE BALL.html",
+    "filename": "Cheese Ball.html",
     "category": "Appetizers",
     "source": "Mum",
     "ingredients": [
-      "2 250 G. CREAM CHEESE",
-      "3 OR 4 GREEN ONIONS (DICED FINE )",
-      "2 OR 3 DASHES OF WORCHESTER SAUCE",
-      "2 OR 3 DASHES OF SOYA SAUCE",
-      "2 OR 3 DASHES OF TOBASCO SAUCE",
-      "1 PKG. OF SUMMER SAUSAGE OR SALAMI",
-      "THEN ROLL IN REMAINDER SALAMI WHICH HAS BEEN FINELY CHOPPED."
+      "2 packages (250 g each) Cream Cheese",
+      "3 or 4 Green Onions (diced fine)",
+      "2 or 3 Dashes of Worcestershire Sauce",
+      "2 or 3 Dashes of Soya Sauce",
+      "2 or 3 Dashes of Tabasco Sauce",
+      "1 pkg. of Summer Sausage or Salami"
     ],
-    "instructions": "MIX CREAM CHEESE\nONION ALL TOGETHER. TAKE 1/2 OF THE SLAMI AND DICE VERY SMALL. ADD TO CHEESE MIXTURE. ROLL CHEESE MIXTURE INTO 2 BALL",
-    "snippet": "G. cream cheese, Or 4 green onions (diced fine ), Or 3 dashes of worchester sauce, Or 3 dashes of soya sauce, and 3 more ingredients..."
+    "instructions": "Mix cream cheese, onion and sauces all together. Take 1/2 of the salami and dice very small. Add to cheese mixture. Roll cheese mixture into 2 balls. Then roll in remaining salami, which has been finely chopped.",
+    "snippet": "2 packages, 3 or 4 Green Onions, 2 or 3 Dashes of Worcestershire Sauce, 2 or 3 Dashes of Soya Sauce, and 2 more ingredients..."
   },
   {
     "id": "cherry-pound-cake",
     "title": "Cherry Pound Cake",
-    "filename": "CHERRY POUND CAKE.html",
+    "filename": "Cherry Pound Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
@@ -393,12 +392,12 @@
       "1/2 cup chopped Pecans"
     ],
     "instructions": "Grease and flour an 8-inch tube pan. Blend softened butter, sugar, cream cheese, and vanilla until fluffy.\n\nAdd eggs one at a time, beating well after each addition. Gradually add baking powder and flour.\n\nToss drained cherries with 1/4 cup flour (to prevent sinking), then fold cherries and chopped pecans into batter.\n\nBake at 325°F for 1 hour and 20 minutes until skewer inserted in center comes out clean.",
-    "snippet": "Butter, (8 oz.) pkg. cream cheese, Sugar, Vanilla, and 5 more ingredients..."
+    "snippet": "1 cup Butter, 1, 1 1/2 cups Sugar, 1 1/2 tsp. Vanilla, and 5 more ingredients..."
   },
   {
     "id": "chinese-cabbage-salad",
     "title": "Chinese Cabbage Salad",
-    "filename": "CHINESE CABBAGE SALAD.html",
+    "filename": "Chinese Cabbage Salad.html",
     "category": "Salads",
     "source": "Patti",
     "ingredients": [
@@ -412,53 +411,60 @@
       "Dressing: 2 Tbsp. Vinegar"
     ],
     "instructions": "Chop cabbage and green onions. Toast sliced almonds in a dry pan until fragrant.\n\nWhisk dressing ingredients (oil, sugar, soya sauce, and vinegar) until sugar dissolves.\n\nKeep cabbage mixture, crunchy noodles/almonds, and dressing in separate containers until ready to serve.\n\nToss all 3 parts together right before eating so noodles stay crisp.",
-    "snippet": "Nappa / chinese cabbage (chopped), Green onions (chopped), Mr. noodle (crushed, no seasoning), Sliced almonds (toasted), and 4 more ingredients..."
+    "snippet": "1 bunch Nappa / Chinese Cabbage, 1 bunch Green Onions, 1 pkg. Mr. Noodle, 1/2 pkg. sliced Almonds, and 4 more ingredients..."
   },
   {
     "id": "chocolate-snowballs",
     "title": "Chocolate Snowballs",
-    "filename": "CHOCOLATE SNOWBALLS.html",
+    "filename": "Chocolate Snowballs.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
-      "3/4 CUP BUTTER",
-      "1/2 CUP SUGAR",
-      "2 TSP. VANILLA",
-      "1 EGG",
-      "2 CUPS FLOUR",
-      "1/2 TSP. SALT",
-      "1 6 OZ. PKG. CHOCOLATE CHIPS",
-      "1 CUP CHOPPED NUTS",
-      "BLEND BUTTER",
-      "SUGAR"
+      "3/4 cup Butter",
+      "1/2 cup Sugar",
+      "2 tsp. Vanilla",
+      "1 Egg",
+      "2 cups Flour",
+      "1/2 tsp. Salt",
+      "1 6 oz. pkg. Chocolate Chips",
+      "1 cup chopped Nuts"
     ],
-    "instructions": "VANILLA. BEAT IN EGG. STIR IN FLOUR MIXTURE\nCHOCOLATE CHIPS AND NUTS. SHAPE INTO 1 INCH BALLS. PLACE ON UNGREASED COOKIE SHEET BAKE 350 15-20 MINS.",
-    "snippet": "Butter, Sugar, Vanilla, Egg, and 6 more ingredients..."
+    "instructions": "Blend butter, sugar and vanilla. Beat in egg. Stir in flour mixture, chocolate chips and nuts. Shape into 1 inch balls. Place on ungreased cookie sheet. Bake 350 for 15-20 mins.",
+    "snippet": "3/4 cup Butter, 1/2 cup Sugar, 2 tsp. Vanilla, 1 Egg, and 4 more ingredients..."
   },
   {
     "id": "chocolate-squares",
     "title": "Chocolate Squares",
-    "filename": "Chocolate squares.html",
+    "filename": "Chocolate Squares.html",
     "category": "Squares & Bars",
     "source": "Mum",
     "ingredients": [
-      "1 CUP SOFT BUTTER",
-      "1 1/2 CUPS SUGAR",
-      "3 EGGS",
-      "1 TSP.VANILLA",
-      "1 TSP BAKING POWDER",
-      "1 CUP FLOUR",
-      "1/4 CUP COCOA",
-      "1/2 CUP WALNUTS",
-      "COVER WITH 1 CAN SWEETENED CONDENCED"
+      "--- Base ---",
+      "1 cup Soft Butter",
+      "1 1/2 cups Sugar",
+      "3 Eggs",
+      "1 tsp. Vanilla",
+      "1 tsp. Baking Powder",
+      "1 cup Flour",
+      "1/4 cup Cocoa",
+      "1/2 cup Walnuts",
+      "--- Topping ---",
+      "1 can Sweetened Condensed Milk",
+      "1 cup Coconut",
+      "--- Icing ---",
+      "2 cups Icing Sugar",
+      "1/4 cup Cocoa",
+      "2 Tbsp. Butter",
+      "1/2 tsp. Vanilla",
+      "3 Tbsp. Cream"
     ],
-    "instructions": "MIX ABOVE INGREDIENTS AND SPREAD IN\nA 13 X10 PAN. BAKE 350 FOR ABOUT 30 MINS\nMILK AND 1 CUP COCONUT MIX TOGETHER\nAND SPREAD OVER THE TOP. RETURN TO OVEN AND BAKE UNTIL LIGHTLY BROWNED 15-20 MINS. ICING 2 CUPS ICING SUGAR 1/4 CUP COCOA 2 TBSP.BUTTER 1/2 TSP.VANILLA 3 TBSP. CREAM",
-    "snippet": "Soft butter, Sugar, Eggs, Vanilla, and 5 more ingredients..."
+    "instructions": "Mix base ingredients and spread in a 13 x 10 pan. Bake 350 for about 30 mins.\n\nMix sweetened condensed milk and coconut together and spread over the top. Return to oven and bake until lightly browned, 15-20 mins.\n\nMix icing ingredients and spread over the squares.",
+    "snippet": "1 cup Soft Butter, 1 1/2 cups Sugar, 3 Eggs, 1 tsp. Vanilla, and 11 more ingredients..."
   },
   {
     "id": "christmas-jewels",
     "title": "Christmas Jewels",
-    "filename": "CHRISTMAS JEWELS.html",
+    "filename": "Christmas Jewels.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
@@ -477,12 +483,12 @@
       "Shredded Coconut (for rolling)"
     ],
     "instructions": "Cream butter with brown and white sugar until fluffy. Add egg, water, and vanilla; beat well.\n\nCombine flour, baking powder, baking soda, and salt; stir into butter mixture. Fold in chopped gumdrops and rolled oats.\n\nChill dough for 1 hour. Shape into small balls and roll in shredded coconut.\n\nPlace on baking sheet and bake at 350°F for 15-20 minutes until lightly browned.",
-    "snippet": "Butter, Brown sugar, White sugar, Egg, and 9 more ingredients..."
+    "snippet": "1/2 cup Butter, 1/2 cup Brown Sugar, 1/2 cup White Sugar, 1 Egg, and 9 more ingredients..."
   },
   {
     "id": "classic-doughnuts",
     "title": "Classic Doughnuts",
-    "filename": "DOUGHNUTS.html",
+    "filename": "Classic Doughnuts.html",
     "category": "Doughnuts",
     "source": "Mum",
     "ingredients": [
@@ -497,55 +503,54 @@
       "1/2 tsp. Nutmeg"
     ],
     "instructions": "Beat eggs well, add sugar, and stir in milk. Add sifted dry ingredients and melted butter. (This dough is soft, making wonderfully light doughnuts.)\n\nChill dough until easy to handle. Roll out on a floured surface to 1/2-inch thickness and cut with doughnut cutter.\n\nFry in deep hot fat (370°F) until golden brown, turning once. Drain and dust with sugar or cinnamon-sugar if desired.",
-    "snippet": "Eggs (well beaten), White sugar, Butter (melted), Salt, and 5 more ingredients..."
+    "snippet": "3 Eggs, 1 cup White Sugar, 3 Tbsp. Butter, 1 tsp. Salt, and 5 more ingredients..."
   },
   {
     "id": "coconut-cream-pie",
     "title": "Coconut Cream Pie",
-    "filename": "COCONUT CREAM PIE.html",
+    "filename": "Coconut Cream Pie.html",
     "category": "Pies & Tarts",
     "source": "Mum",
     "ingredients": [
-      "3/4 CUP SUGAR",
-      "3 TBSP. CORN STARCH",
-      "1/2 TSP. SALT",
-      "3 EGG YOKES",
-      "1 CUP SHREDDED COCONUT",
-      "2 CUPS MILK (BLEND)",
-      "MERINGE:",
-      "3 EGG WHITES",
-      "3 TBSP. WATER",
-      "1/4 CUP SUGAR",
-      "CORN STARCH",
-      "AND SALT IN SAUCE PAN"
+      "--- Filling ---",
+      "3/4 cup Sugar",
+      "3 Tbsp. Corn Starch",
+      "1/2 tsp. Salt",
+      "2 cups Milk",
+      "3 Egg Yolks",
+      "1 cup Shredded Coconut",
+      "--- Meringue ---",
+      "3 Egg Whites",
+      "3 Tbsp. Water",
+      "1/4 cup Sugar"
     ],
-    "instructions": "MIX SUGAR\nADD MILK. COOK UNTIL IT BEGINS TO THICKEN. ADD EGG YOKES AND BEAT WELL. COOK UNTIL THICK. REMOVE FROM HEAT. ADD COCONUT. COOL. PLACE IN A BAKED PIE SHELL. COVER WITH MERINGNE\nBAKE 425 UNTIL MERINGNE IS GOLDEN BROWN.",
-    "snippet": "Sugar, Corn starch, Salt, Egg yokes, and 8 more ingredients..."
+    "instructions": "Mix sugar, corn starch and salt in a saucepan. Add milk. Cook until it begins to thicken. Add egg yolks and beat well. Cook until thick. Remove from heat. Add coconut. Cool. Place in a baked pie shell.\n\nCover with meringue. Bake 425 until meringue is golden brown.",
+    "snippet": "3/4 cup Sugar, 3 Tbsp. Corn Starch, 1/2 tsp. Salt, 2 cups Milk, and 5 more ingredients..."
   },
   {
     "id": "cream-cheese-biscuits",
     "title": "Cream Cheese Biscuits",
-    "filename": "CREAM CHEESE BISCUITS.html",
+    "filename": "Cream Cheese Biscuits.html",
     "category": "Breads",
     "source": "Mum",
     "ingredients": [
-      "2 CUPS FLOUR",
-      "1 TBSP. BAKING POWDER",
-      "1 TUB (250 G.) SPREADABLE CREAM CHEESE",
-      "1/2 CUP MILK",
-      "YOU MAY ADD 1/2 CUP OF GRATED CHEDDAR CHEESE",
-      "ORANGE OR LEMON ZEST",
-      "DRIED CRANBERRIES",
-      "RAISINS",
-      "OR CHOCOLATE CHIPS"
+      "2 cups Flour",
+      "1 Tbsp. Baking Powder",
+      "1 Tub (250 g.) Spreadable Cream Cheese",
+      "1/2 cup Milk",
+      "You May Add 1/2 cup of grated Cheddar Cheese",
+      "Orange or Lemon Zest",
+      "Dried Cranberries",
+      "Raisins",
+      "Or Chocolate Chips"
     ],
-    "instructions": "MIX FLOUR AND BAKING POWDER. CUT IN CREAM CHEESE TO FORM A CRUMBLY MIXTURE. STIR IN MILK AND DESIRED ADD-INS. PAT DOUGH TO 3/4 THICK ON A FLOURED BOARD. CUT BISCUITS. BAKE 425 12-15 MINS.",
-    "snippet": "Flour, Baking powder, Tub (250 g.) spreadable cream cheese, Milk, and 5 more ingredients..."
+    "instructions": "Mix flour and baking powder. Cut in cream cheese to form a crumbly mixture. Stir in milk and desired add-ins. Pat dough to 3/4 thick on a floured board. Cut biscuits. Bake 425 12-15 mins.",
+    "snippet": "2 cups Flour, 1 Tbsp. Baking Powder, 1 Tub, 1/2 cup Milk, and 5 more ingredients..."
   },
   {
     "id": "cream-cheese-brownies",
     "title": "Cream Cheese Brownies",
-    "filename": "Cream cheese brownies.html",
+    "filename": "Cream Cheese Brownies.html",
     "category": "Squares & Bars",
     "source": "Mum",
     "ingredients": [
@@ -563,128 +568,128 @@
       "1/2 cup Butter"
     ],
     "instructions": "Cheese Layer: Beat Cheese and Egg well. Blend Sugar and Flour gradually beating until well blended. Stir in Cherries. Set aside.\n\nBrownie layer: Beat Eggs until frothy. Add Sugar, Flour, Nuts, Salt. Melt while stirring Butter and Cocoa. Add rest of ingredients. Stir well.\n\nSpread 2/3 of brownie mixture in a greased 8x8 pan. Carefully spread cheese filling over. Cover completely with remaining brownie mixture. Bake in 350°F oven for 30-35 mins.",
-    "snippet": "4 oz.cream cheese, Egg, Sugar, Flour, and 8 more ingredients..."
+    "snippet": "1 pkg. 4 oz.Cream Cheese, 1 Egg, 1/2 cup Sugar, 2 Tbsp. Flour, and 8 more ingredients..."
   },
   {
     "id": "crushed-pineapple-cake",
     "title": "Crushed Pineapple Cake",
-    "filename": "Crushed Pineapple cake.html",
+    "filename": "Crushed Pineapple Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
-      "3/4 CUP BUTTER",
-      "1 CUP SUGAR",
-      "2 LARGE EGGS",
-      "2 3/4 CUPS FLOUR",
-      "2 tsp. BAKING POWDER",
+      "3/4 cup Butter",
+      "1 cup Sugar",
+      "2 large Eggs",
+      "2 3/4 cups Flour",
+      "2 tsp. Baking Powder",
       "1 tsp. SALT",
       "2 cups White RAISINS",
-      "1 CUP RED CHERRIES",
-      "1 CUP GREEN CHERRIES",
-      "15 oz. CAN PINEAPPLE",
-      "1 CUP MIXED FRUIT"
+      "1 cup Red Cherries",
+      "1 cup Green Cherries",
+      "15 oz. can Pineapple",
+      "1 cup Mixed Fruit"
     ],
     "instructions": "Drain Pineapple and mix fruits together. Follow the usual cake method adding fruit last. Line pan with wax paper greased. Let stand overnight and bake 275 for about 3 hours.",
-    "snippet": "Butter, Sugar, Large eggs, Flour, and 7 more ingredients..."
+    "snippet": "3/4 cup Butter, 1 cup Sugar, 2 large Eggs, 2 3/4 cups Flour, and 7 more ingredients..."
   },
   {
     "id": "dark-fruit-cake",
     "title": "Dark Fruit Cake",
-    "filename": "DARK FRUIT CAKE.html",
+    "filename": "Dark Fruit Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
-      "1 1/2 CUP SEEDLESS RAISINS",
-      "1 CUP CURRENTS",
-      "1 CUP SEPARETED SEEDED RAISINS",
-      "2 CUPS CANDID CHERRIES",
-      "1 CUP ALMONDS",
-      "1 CUP DATES",
-      "1/2 CUP MIXED PEEL",
-      "1 1/2 CUPS MIXED FRUIT",
-      "2 2/3 CUP FLOUR",
-      "1 1/2 TSP BAKING POWDER",
-      "3/4 TSP. SALT",
-      "1 1/2 TSP CINNAMON",
-      "1/2 TSP. GINGER",
-      "1/4 TSP. CLOVES",
-      "1 CUP BUTTER",
-      "1 1/4 CUP B. SUGAR",
-      "6 EGGS",
-      "1/4 CUP MOLASSES",
-      "1/3 CUP STRONG COFFEE"
+      "1 1/2 cup Seedless Raisins",
+      "1 cup Currants",
+      "1 cup Separated Seeded Raisins",
+      "2 cups Candied Cherries",
+      "1 cup Almonds",
+      "1 cup Dates",
+      "1/2 cup Mixed Peel",
+      "1 1/2 cups Mixed Fruit",
+      "2 2/3 cup Flour",
+      "1 1/2 tsp Baking Powder",
+      "3/4 tsp. Salt",
+      "1 1/2 tsp Cinnamon",
+      "1/2 tsp. Ginger",
+      "1/4 tsp. Cloves",
+      "1 cup Butter",
+      "1 1/4 cup B. Sugar",
+      "6 Eggs",
+      "1/4 cup Molasses",
+      "1/3 cup Strong Coffee"
     ],
-    "instructions": "MAKES TWO LOAF PANS. GREASE PANS AND LINE WITH BROWN PAPER. BASTE TOP OF CAKE WITH MILK WHILE BAKING. PLACE PAN OF WATER IN OVEN WHILE BAKING. BAKE 300 FOR ABOUT 3 HOURS.",
-    "snippet": "Seedless raisins, Currents, Separeted seeded raisins, Candid cherries, and 15 more ingredients..."
+    "instructions": "Makes two loaf pans. Grease pans and line with brown paper. Baste top of cake with milk while baking. Place pan of water in oven while baking. Bake 300 for about 3 hours.",
+    "snippet": "1 1/2 cup Seedless Raisins, 1 cup Currants, 1 cup Separated Seeded Raisins, 2 cups Candied Cherries, and 15 more ingredients..."
   },
   {
     "id": "date-pinwheels",
     "title": "Date Pinwheels",
-    "filename": "DATE PINWHEELS.html",
+    "filename": "Date Pinwheels.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
-      "2 CUPS BROWN SUGAR",
-      "3/4 CUP BUTTER",
-      "2 EGGS",
-      "3 CUPS FLOUR",
-      "1/2 TSP. CREAM OF TARTER",
-      "1 TSP. SODA",
-      "SALT",
-      "VANILLA",
-      "FILLING : 3/4 LB. DATES",
-      "1/4 CUP SUGAR",
-      "1 1/4 CUP WATER"
+      "2 cups Brown Sugar",
+      "3/4 cup Butter",
+      "2 Eggs",
+      "3 cups Flour",
+      "1/2 tsp. Cream of Tarter",
+      "1 tsp. Soda",
+      "Salt",
+      "Vanilla",
+      "Filling : 3/4 lb. Dates",
+      "1/4 cup Sugar",
+      "1 1/4 cup Water"
     ],
-    "instructions": "COOK FILLING. COOL. DIVIDE DOUGH IN 4 PIECES. ROLL TO ABOUT 1/4 INCH. SPREAD WITH FILLING. ROLL LIKE A JELLY ROLL. FREEZE THEN SLICE AND BAKE. 350 10-15 MINS.",
-    "snippet": "Brown sugar, Butter, Eggs, Flour, and 7 more ingredients..."
+    "instructions": "Cook filling. Cool. Divide dough in 4 pieces. Roll to about 1/4 inch. Spread with filling. Roll like a jelly roll. Freeze then slice and bake. 350 10-15 mins.",
+    "snippet": "2 cups Brown Sugar, 3/4 cup Butter, 2 Eggs, 3 cups Flour, and 7 more ingredients..."
   },
   {
     "id": "extra-special-chocolate-cake",
     "title": "Extra Special Chocolate Cake",
-    "filename": "EXTRA SPECIAL CHOCOLATE CAKE.html",
+    "filename": "Extra Special Chocolate Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
-      "3/4 CUP SHORTENING",
-      "1 3/4 CUPS BROWN SUGAR",
-      "1 WHOLE EGG AND 3 EGG YOKES",
-      "3 SQUARES UNSWEETENED CHOCOLATE",
-      "1 1/2 TSP. VANILLA",
-      "1 1/2 CUPS MILK",
-      "2 1/2 CUPS FLOUR",
-      "1 1/2 TSP. SODA",
-      "1/2 TSP. SALT"
+      "3/4 cup Shortening",
+      "1 3/4 cups Brown Sugar",
+      "1 whole Egg and 3 Egg Yolks",
+      "3 Squares Unsweetened Chocolate",
+      "1 1/2 tsp. Vanilla",
+      "1 1/2 cups Milk",
+      "2 1/2 cups Flour",
+      "1 1/2 tsp. Soda",
+      "1/2 tsp. Salt"
     ],
-    "instructions": "BAKE IN 2 LAYERS. 350 FOR 22- 25 MINS.",
-    "snippet": "Shortening, Brown sugar, Whole egg and 3 egg yokes, Squares unsweetened chocolate, and 5 more ingredients..."
+    "instructions": "Preheat oven to 350°F. Grease and flour two layer cake pans. Melt the chocolate and let cool.\n\nCream shortening and brown sugar. Beat in the whole egg and egg yolks. Blend in melted chocolate and vanilla. Sift flour, soda and salt and add alternately with the milk, beating until smooth.\n\nBake in 2 layers. 350 for 22- 25 mins. Cool before icing.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "3/4 cup Shortening, 1 3/4 cups Brown Sugar, 1 whole Egg and 3 Egg Yolks, 3 Squares Unsweetened Chocolate, and 5 more ingredients..."
   },
   {
     "id": "fabulous-cake",
     "title": "Fabulous Cake",
-    "filename": "FABULOUS CAKE.html",
+    "filename": "Fabulous Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
-      "1/2 CUP BUTTER",
-      "1 CUP WHITE SUGAR",
-      "1 CUP BROWN SUGAR",
-      "2 EGGS",
-      "2 CUPS FLOUR",
-      "2 TSP. BAKING POWDER",
-      "4 OZ. CHOCOLATE",
-      "1 CUP MILK",
-      "1 CUP CHOPPED WALNUTS",
-      "2 TSP. VANILLA",
-      "1/2 TSP. SALT"
+      "1/2 cup Butter",
+      "1 cup White Sugar",
+      "1 cup Brown Sugar",
+      "2 Eggs",
+      "2 cups Flour",
+      "2 tsp. Baking Powder",
+      "4 oz. Chocolate",
+      "1 cup Milk",
+      "1 cup chopped Walnuts",
+      "2 tsp. Vanilla",
+      "1/2 tsp. Salt"
     ],
-    "instructions": "COMBINE INGREDIENTS AS WITH ANY ORDINARY BUTTER CAKE RECIPE. BAKE IN SQUARE CAKE PAN 300 FOR 45 MINS. COOL.\n\nICING: 1 1/2 OZ. CHOCOLATE AND 1/4 CUP OF BUTTER MELTED TOGETHER. PINCH OF SALT, 1 EGG, 1 TSP VANILLA, 1 TSP LEMON JUICE, 1 1/3 CUP ICING SUGAR. AFTER ICING SPRINKLE WITH CHOPPED NUTS. LET CAKE STAND 24 HOURS BEFORE CUTTING!!",
-    "snippet": "Butter, White sugar, Brown sugar, Eggs, and 7 more ingredients..."
+    "instructions": "Combine ingredients as with any ordinary butter cake recipe. Bake in square cake pan 300 for 45 mins. Cool.\n\nIcing: 1 1/2 oz. chocolate and 1/4 cup of butter melted together. Pinch of salt, 1 egg, 1 tsp vanilla, 1 tsp lemon juice, 1 1/3 cup icing sugar. After icing sprinkle with chopped nuts. Let cake stand 24 hours before cutting!!",
+    "snippet": "1/2 cup Butter, 1 cup White Sugar, 1 cup Brown Sugar, 2 Eggs, and 7 more ingredients..."
   },
   {
     "id": "five-flavor-cake",
     "title": "Five Flavor Cake",
-    "filename": "FIVE FLAVOR CAKE.html",
+    "filename": "Five Flavor Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
@@ -705,7 +710,7 @@
       "Glaze: 1/2 tsp. each Coconut, Rum, Butter, Lemon, Vanilla extracts"
     ],
     "instructions": "Cream butter, shortening, and sugar until light and fluffy. Add beaten eggs.\n\nCombine flour and baking powder; add to creamed mixture alternately with milk. Stir in the 5 flavor extracts.\n\nPour batter into a greased and floured 10-inch tube pan. Bake at 325°F for about 1 1/2 hours until a toothpick comes out clean.\n\nPrepare glaze: combine sugar, water, and extracts in a small saucepan, bring to a boil for 1 minute, and pour warm glaze over hot cake.",
-    "snippet": "Butter, Shortening, Sugar, Eggs (well beaten), and 11 more ingredients..."
+    "snippet": "1 cup Butter, 1/2 cup Shortening, 3 cups Sugar, 5 Eggs, and 11 more ingredients..."
   },
   {
     "id": "garys-lmnt-like-electrolyte-mix",
@@ -728,7 +733,7 @@
   {
     "id": "ginger-crinkles",
     "title": "Ginger Crinkles",
-    "filename": "GINGER CRINKLES.html",
+    "filename": "Ginger Crinkles.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
@@ -744,7 +749,7 @@
       "Sugar (for rolling)"
     ],
     "instructions": "Cream shortening and sugar; beat in egg and molasses.\n\nCombine flour, salt, baking soda, cinnamon, and ginger; blend into creamed mixture to form a soft dough.\n\nShape dough into 1-inch balls and roll generously in sugar.\n\nPlace on ungreased cookie sheets 2 inches apart. Bake at 350°F for 12-15 minutes until crinkled and set.",
-    "snippet": "Shortening, Sugar, Egg, Molasses, and 6 more ingredients..."
+    "snippet": "2/3 cup Shortening, 1 cup Sugar, 1 Egg, 4 Tbsp. Molasses, and 6 more ingredients..."
   },
   {
     "id": "grilled-kofta-stuffed-peppers",
@@ -769,26 +774,26 @@
       "2 Tbsp. fresh lemon juice"
     ],
     "instructions": "1. Prepare Couscous Base: Prepare a grill for medium heat; oil grate. Combine couscous, baharat, and 1 1/2 tsp. Diamond Crystal or 1 tsp. Morton kosher salt in a large heatproof bowl. Pour in 1/2 cup plus 2 tsp. boiling water. Cover bowl with a kitchen towel; let sit 5 minutes.\n\n2. Mix Meat & Fillings: Using a fork, break up couscous. Add shallot, garlic, ground beef, cilantro, 1/2 cup finely chopped pistachios, 1 1/2 tsp. salt, and 1/2 tsp. black pepper. Gently mix and set aside.\n\n3. Pre-Char Peppers: Drizzle halved bell peppers with 1 Tbsp. oil, salt, and pepper. Grill cut side down until just starting to char (about 3 mins). Let cool skin side down.\n\n4. Stuff & Grill: Lightly fill each bell pepper half with 1/2 cup meat mixture. Grill skin side down covered for about 20 minutes until filling registers 165°F.\n\n5. Serve: Whisk yogurt, lemon zest, lemon juice, and remaining 1/2 tsp. salt. Top peppers with pistachios and serve with lemon yogurt.",
-    "snippet": "Vegetable oil, quick-cooking couscous, baharat, kosher salt, shallot, garlic, ground beef, and 7 more ingredients..."
+    "snippet": "1 Tbsp. vegetable oil, 1/2 cup quick-cooking couscous, 1 Tbsp. baharat, 3 1/2 tsp. Diamond Crystal or 2 1/4 tsp. Morton kosher salt, and 10 more ingredients..."
   },
   {
     "id": "gumdrop-cake",
     "title": "Gumdrop Cake",
-    "filename": "GUMDROP CAKE.html",
+    "filename": "Gumdrop Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
-      "1/2 CUP BUTTER",
-      "2 EGGS",
-      "1 CUP WHITE SUGAR",
-      "1 CUP ALL PURPOSE FLOUR",
-      "1 CUP CAKE FLOUR",
-      "2 TSP. BAKING POWDER",
-      "1 TSP. VANILLA",
-      "SALT"
+      "1/2 cup Butter",
+      "2 Eggs",
+      "1 cup White Sugar",
+      "1 cup All Purpose Flour",
+      "1 cup Cake Flour",
+      "2 tsp. Baking Powder",
+      "1 tsp. Vanilla",
+      "Salt"
     ],
-    "instructions": "BAKE 350 50-60 MINS.",
-    "snippet": "Butter, Eggs, White sugar, All purpose flour, and 4 more ingredients..."
+    "instructions": "Preheat oven to 350°F. Grease and flour a loaf or tube pan.\n\nCream butter and sugar until light and fluffy. Beat in eggs one at a time, then vanilla. Stir together all purpose flour, cake flour, baking powder and salt and blend into the creamed mixture. Fold in chopped gumdrops that have been tossed in a little flour so they do not sink.\n\nSpoon batter into pan. Bake 350 50-60 mins, until a toothpick comes out clean. Cool in pan 10 minutes before turning out.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "1/2 cup Butter, 2 Eggs, 1 cup White Sugar, 1 cup All Purpose Flour, and 4 more ingredients..."
   },
   {
     "id": "gyu-dare-dipping-sauce-and-marinade",
@@ -808,7 +813,7 @@
   {
     "id": "homemade-bread",
     "title": "Homemade Bread",
-    "filename": "Bread.html",
+    "filename": "Homemade Bread.html",
     "category": "Breads",
     "source": "Mum",
     "ingredients": [
@@ -823,12 +828,12 @@
       "1 cup Whole Wheat Flour"
     ],
     "instructions": "Soak yeast in warm water (8 teaspoons). Add to bread machine (2 lb loaf) or mix by hand.\n\nWarm milk and melt shortening. Mix and knead thoroughly until dough is smooth and elastic. Let rise until doubled in bulk. Punch down, let rise until doubled again, divide into 3 loaves, and let rise once more.\n\nBake in 400°F oven for 30-40 minutes. (To make full recipe, multiply ingredients by 3.)",
-    "snippet": "Milk, Sugar, Shortening, Water, and 5 more ingredients..."
+    "snippet": "2/3 cup Milk, 4 tsp. Sugar, 2 tsp. Shortening, 2/3 cup Water, and 5 more ingredients..."
   },
   {
     "id": "ice-box-cookies",
     "title": "Ice Box Cookies",
-    "filename": "ICE BOX COOKIES.html",
+    "filename": "Ice Box Cookies.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
@@ -844,7 +849,7 @@
       "Optional: Sprinkles for topping"
     ],
     "instructions": "Cream butter and brown sugar; add eggs and beat well. Stir in flavoring.\n\nAdd dry ingredients a little at a time until dough is well mixed. Optional nuts, citron, or candied cherries may be folded in.\n\nForm dough into rolls and wrap tightly in wax paper. Freeze or chill in refrigerator until stiff.\n\nSlice rolls thinly with a sharp knife and place on ungreased baking sheets. May be topped with colorful sprinkles.\n\nBake at 350°F for 10-12 minutes. A grandchildren favourite!",
-    "snippet": "Brown sugar, Butter, Eggs, Flour, and 6 more ingredients..."
+    "snippet": "2 cups Brown Sugar, 1 cup Butter, 2 Eggs, 3 1/2 cups Flour, and 6 more ingredients..."
   },
   {
     "id": "lemon-bar-cookie-cups",
@@ -871,12 +876,12 @@
       "Powdered Sugar (for dusting)"
     ],
     "instructions": "Preheat oven to 375°F. Line or lightly spray a muffin tin.\n\nIn a small bowl, whisk together the dry ingredients (flour, baking soda, and baking powder).\n\nIn a large mixing bowl, cream together softened butter and sugar until light and fluffy. Beat in the egg and vanilla extract. Gradually add dry ingredients to wet mixture, mixing until a dough forms.\n\nForm dough into 1-inch balls and place one ball into each muffin cup. Bake for 8-10 minutes until lightly golden. Immediately upon removing from the oven, gently press down the center of each cookie with the back of a spoon to form a cup shape. Let cool completely in the pan.\n\nPrepare Lemon Curd: In a saucepan, cream softened butter and sugar. Whisk in 2 whole eggs, 2 egg yolks, and lemon juice. Cook over medium heat, whisking constantly until the mixture thickens (about 5 minutes). Remove from heat and let cool slightly.\n\nSpoon warm lemon curd into the cooled cookie cups. Top with freshly grated lemon zest and chill in the refrigerator until set.\n\nGently remove cookie cups from tin and dust generously with powdered sugar before serving.",
-    "snippet": "Flour, butter, sugar, eggs, lemon juice, lemon zest, and 7 more ingredients..."
+    "snippet": "2 3/4 cups Flour, 1 tsp. Baking Soda, 1/2 tsp. Baking Powder, 1 cup Butter, and 9 more ingredients..."
   },
   {
     "id": "lemon-bars",
     "title": "Lemon Bars",
-    "filename": "LEMON BARS.html",
+    "filename": "Lemon Bars.html",
     "category": "Squares & Bars",
     "source": "Mum",
     "ingredients": [
@@ -891,12 +896,12 @@
       "1/2 tsp. Baking Powder"
     ],
     "instructions": "Cream 1 cup flour, butter, and powdered sugar together. Spread evenly into the bottom of an 8x8-inch pan. Bake for 20 minutes in a 350°F oven.\n\nIn a bowl, whisk together eggs, white sugar, lemon juice, salt, 2 Tbsp flour, and baking powder. Pour filling evenly over the hot baked crust.\n\nReturn to oven and bake for 25 minutes at 350°F. Allow to cool completely, then dust generously with powdered sugar and slice into bars.",
-    "snippet": "Flour, Butter (softened), Powdered sugar, Eggs, and 5 more ingredients..."
+    "snippet": "1 cup Flour, 1/2 cup Butter, 1/4 cup Powdered Sugar, 2 Eggs, and 5 more ingredients..."
   },
   {
     "id": "magic-chocolate-toffee-bars",
     "title": "Magic Chocolate Toffee Bars",
-    "filename": "Magic Toffee Bars.html",
+    "filename": "Magic Chocolate Toffee Bars.html",
     "category": "Squares & Bars",
     "source": "Mum",
     "ingredients": [
@@ -910,12 +915,12 @@
       "1 can Sweetened condensed Milk"
     ],
     "instructions": "Combine flour and sugar. Cut in Butter until mixture is crumbly. Press firmly into a 9x13 greased pan. Bake 350 for 12 mins or until light golden brown. Pour Sweetened milk over crust. Sprinkle with mixture of choc. chips, toffee bits and almonds. Press down firmly. Bake 25 to 30 mins or until lightly browned.",
-    "snippet": "Chocolate chips, Flaked coconut, Skor toffee bits, Sliced almonds, and 4 more ingredients..."
+    "snippet": "1 1/2 cup Chocolate chips, 3/4 cup flaked Coconut, 3/4 cup Skor toffee bits, 1/2 cup sliced Almonds, and 4 more ingredients..."
   },
   {
     "id": "midsummer-strawberry-dream",
     "title": "Midsummer Strawberry Dream",
-    "filename": "MIDSUMMER STRAWBERRY DREAM.html",
+    "filename": "Midsummer Strawberry Dream.html",
     "category": "Desserts",
     "source": "Mum",
     "ingredients": [
@@ -929,12 +934,12 @@
       "1 cup Whipped Cream (sweetened)"
     ],
     "instructions": "Crush vanilla wafers and combine with 6 Tbsp melted butter. Press 1/2 of crumb mixture firmly into a 9x11-inch pan.\n\nCream softened butter and icing sugar together. Add eggs one at a time, beating thoroughly after each addition. Spread evenly over crust.\n\nSprinkle with chopped nuts. Drain strawberries well and spread over top. Cover generously with sweetened whipped cream. Sprinkle remaining wafer crumbs on top.\n\nChill in refrigerator for 24 hours before serving.",
-    "snippet": "Vanilla wafers (crushed), Butter (melted), Butter (softened), Icing sugar, and 4 more ingredients..."
+    "snippet": "1 pkg. Vanilla Wafers, 6 Tbsp. Butter, 1/2 cup Butter, 1 cup Icing Sugar, and 4 more ingredients..."
   },
   {
     "id": "mock-apple-pie",
     "title": "Mock Apple Pie",
-    "filename": "MOCK APPLE PIE.html",
+    "filename": "Mock Apple Pie.html",
     "category": "Pies & Tarts",
     "source": "Mum",
     "ingredients": [
@@ -949,33 +954,33 @@
       "Topping: 3/4 cup Flour"
     ],
     "instructions": "Combine apple juice, sugar, cream of tartar, and cinnamon in a saucepan. Stir and bring to a rolling boil.\n\nDrop in Ritz crackers one by one. Do not stir! Boil gently for 2 minutes.\n\nPour cracker and syrup mixture carefully into unbaked pie shell.\n\nCombine topping ingredients (butter, sugar, flour) with a fork until crumbly; sprinkle evenly over pie.\n\nBake at 450°F for 10-15 minutes or until pastry is golden brown and cooked through.",
-    "snippet": "Apple juice, White sugar, Cream of tartar, Cinnamon, and 5 more ingredients..."
+    "snippet": "2 cups Apple Juice, 1 cup White Sugar, 2 tsp. Cream of Tartar, 1/4 tsp. Cinnamon, and 5 more ingredients..."
   },
   {
     "id": "monster-cookies",
     "title": "Monster Cookies",
-    "filename": "MONSTER COOKIES.html",
+    "filename": "Monster Cookies.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
-      "1 CUP BUTTER",
-      "2 1/2 CUPS BROWN SUGAR",
-      "2 CUPS GRANULATED SUGAR",
-      "2 CUPS PEANUT BUTTER",
-      "6 EGGS",
-      "4 TSP. BAKING SODA",
-      "1 TBSP. VANILLA",
-      "1 1/2 TSP CORN SYRUP OR MOLASSES",
-      "9 CUPS ROLLED OATS",
-      "4 CUPS TOTAL OF: SMARTIES, CHOC. CHIPS, WALNUTS, SUNFLOWER SEED, WHEAT GERM"
+      "1 cup Butter",
+      "2 1/2 cups Brown Sugar",
+      "2 cups Granulated Sugar",
+      "2 cups Peanut Butter",
+      "6 Eggs",
+      "4 tsp. Baking Soda",
+      "1 Tbsp. Vanilla",
+      "1 1/2 tsp Corn Syrup or Molasses",
+      "9 cups Rolled Oats",
+      "4 cups Total of: Smarties, Choc. Chips, Walnuts, Sunflower Seed, Wheat Germ"
     ],
-    "instructions": "BAKE 325-350 15-18 MINS.",
-    "snippet": "Butter, Brown sugar, Granulated sugar, Peanut butter, and 6 more ingredients..."
+    "instructions": "Preheat oven to 350°F. Cream butter, peanut butter and both sugars together. Beat in eggs, vanilla and corn syrup or molasses. Stir in baking soda. Gradually stir in the oats, then fold in the Smarties, chocolate chips, walnuts, sunflower seeds and wheat germ.\n\nDrop large scoops of dough onto ungreased cookie sheets and flatten slightly. Bake 325-350 15-18 mins. Let cool on the sheet a few minutes before removing.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "1 cup Butter, 2 1/2 cups Brown Sugar, 2 cups Granulated Sugar, 2 cups Peanut Butter, and 6 more ingredients..."
   },
   {
     "id": "morning-glory-muffins",
     "title": "Morning Glory Muffins",
-    "filename": "MORNING GLORY MUFFINS.html",
+    "filename": "Morning Glory Muffins.html",
     "category": "Muffins",
     "source": "Mum",
     "ingredients": [
@@ -994,31 +999,31 @@
       "2 tsp. vanilla"
     ],
     "instructions": "In bowl beat 3 Eggs, 1/2 cup salad oil, 2 tsp. vanilla. Stir into flour mixture until batter is just combined. Spoon into well greased muffin cups. Bake 350 -20 mins.",
-    "snippet": "Flour, White sugar, Baking soda, Cinnamon, and 9 more ingredients..."
+    "snippet": "2 cups flour, 1 1/4 cup white sugar, 2 tsp. Baking soda, 2 tsp. cinnamon, and 9 more ingredients..."
   },
   {
     "id": "mrs-smith-s-pound-cake",
     "title": "Mrs. Smith's Pound Cake",
-    "filename": "MRS.SMITH'S POUND CAKE.html",
+    "filename": "Mrs. Smith's Pound Cake.html",
     "category": "Cakes",
     "source": "Mrs. Smith",
     "ingredients": [
-      "1 CUP BUTTER",
-      "1 CUP SUGAR",
-      "2 CUPS FLOUR",
-      "1 TSP. BAKING POWDER",
-      "1/2 CUP MILK",
-      "1 TSP. VANILLA",
-      "1 TSP. LEMON",
-      "3 EGGS"
+      "1 cup Butter",
+      "1 cup Sugar",
+      "2 cups Flour",
+      "1 tsp. Baking Powder",
+      "1/2 cup Milk",
+      "1 tsp. Vanilla",
+      "1 tsp. Lemon",
+      "3 Eggs"
     ],
-    "instructions": "CREAM BUTTER AND SUGAR. ADD FLOUR, BAKING POWDER, MILK, VANILLA AND LEMON. BEAT 2 MINS. ADD 3 EGGS BEAT 2 MINS. BAKE 350 FOR ABOUT 60 MINS.",
-    "snippet": "Butter, Sugar, Flour, Baking powder, and 4 more ingredients..."
+    "instructions": "Cream butter and sugar. Add flour, baking powder, milk, vanilla and lemon. Beat 2 mins. add 3 eggs beat 2 mins. bake 350 for about 60 mins.",
+    "snippet": "1 cup Butter, 1 cup Sugar, 2 cups Flour, 1 tsp. Baking Powder, and 4 more ingredients..."
   },
   {
     "id": "mum-s-chocolate-chip-cookies",
     "title": "Mum's Chocolate Chip Cookies",
-    "filename": "MUM'S CHOC. CHIP COOKIES.html",
+    "filename": "Mum's Chocolate Chip Cookies.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
@@ -1034,154 +1039,154 @@
       "1 to 2 cups Chocolate Chips"
     ],
     "instructions": "Cream butter, shortening, and brown sugar until smooth. Beat in eggs and vanilla.\n\nSift flour, baking soda, cream of tartar, and salt together; blend into creamed mixture. Fold in chocolate chips.\n\nDrop rounded spoonfuls onto an ungreased cookie sheet.\n\nBake at 375°F for about 12 minutes until edges are golden.",
-    "snippet": "Butter, Shortening, Brown sugar, Eggs, and 6 more ingredients..."
+    "snippet": "1 cup Butter, 1 cup Shortening, 2 cups Brown Sugar, 2 Eggs, and 6 more ingredients..."
   },
   {
     "id": "mum-s-ginger-cookies",
     "title": "Mum's Ginger Cookies",
-    "filename": "MUM'S GINGER COOKIES.html",
+    "filename": "Mum's Ginger Cookies.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
-      "1 CUP BROWN SUGAR",
-      "1/2 CUP WHITE",
-      "1 CUP MOLASSES",
-      "1 CUP SHORTENING",
-      "1 TSP. SALT",
-      "1 TSP. GINGER",
-      "1 TSP. NUTMEG",
-      "1 OR 2 EGGS",
-      "2 TSP. SODA DISSOLVED IN A LITTLE HOT WATER",
-      "2 TSP. VINEGAR",
-      "3-4 CUPS FLOUR"
+      "1 cup Brown Sugar",
+      "1/2 cup White",
+      "1 cup Molasses",
+      "1 cup Shortening",
+      "1 tsp. Salt",
+      "1 tsp. Ginger",
+      "1 tsp. Nutmeg",
+      "1 or 2 Eggs",
+      "2 tsp. Soda Dissolved in a Little Hot Water",
+      "2 tsp. Vinegar",
+      "3-4 cups Flour"
     ],
-    "instructions": "BAKE 375 12 -15 MINS.",
-    "snippet": "Brown sugar, White, Molasses, Shortening, and 7 more ingredients..."
+    "instructions": "Cream shortening and sugars. Beat in molasses and eggs. Dissolve soda in the hot water and add with the vinegar. Mix in salt, ginger, nutmeg and enough flour to make a soft dough.\n\nPreheat oven to 375°F. Drop dough by spoonfuls onto a greased cookie sheet. Bake 375 12 -15 mins.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "1 cup Brown Sugar, 1/2 cup White, 1 cup Molasses, 1 cup Shortening, and 7 more ingredients..."
   },
   {
     "id": "nana-s-gingersnaps",
     "title": "Nana's Gingersnaps",
-    "filename": "NANA'S GINGERSNAPS.html",
+    "filename": "Nana's Gingersnaps.html",
     "category": "Cookies",
     "source": "Nana",
     "ingredients": [
-      "1 CUP SHORTENING",
-      "1 CUP MOLASSES",
-      "1 CUP BROWN SUGAR",
-      "1/2 CUP WHITE SUGAR",
+      "1 cup Shortening",
+      "1 cup Molasses",
+      "1 cup Brown Sugar",
+      "1/2 cup White Sugar",
       "2 tsp. Ginger",
-      "1 TSP. SALT",
-      "1 TBSP. SODA",
-      "1 EGG",
-      "2 TSP. VINEGAR",
-      "3 1/2 CUP OF FLOUR"
+      "1 tsp. Salt",
+      "1 Tbsp. Soda",
+      "1 Egg",
+      "2 tsp. Vinegar",
+      "3 1/2 cup of Flour"
     ],
-    "instructions": "HEAT MOLASSES TO BOILING POINT (1 MIN IN MICROWAVE). ADD SHORTENING, THEN ADD REMAINING INGREDIENTS. BAKE 350-375°F.",
-    "snippet": "Shortening, Molasses, Brown sugar, White sugar, and 6 more ingredients..."
+    "instructions": "Heat molasses to boiling point (1 min in microwave). Add shortening, then add remaining ingredients. Chill dough until firm.\n\nRoll into 1 inch balls and place on an ungreased cookie sheet. Bake 350-375°F for about 10-12 mins.\n\nNote: Remaining steps were added from classic similar recipes.",
+    "snippet": "1 cup Shortening, 1 cup Molasses, 1 cup Brown Sugar, 1/2 cup White Sugar, and 6 more ingredients..."
   },
   {
     "id": "never-fail-pastry",
     "title": "Never Fail Pastry",
-    "filename": "NEVER FAIL PASTRY.html",
+    "filename": "Never Fail Pastry.html",
     "category": "Pies & Tarts",
     "source": "Mum",
     "ingredients": [
-      "6 CUPS FLOUR",
-      "1 LB. LARD",
-      "1 TSP SALT",
-      "1 EGG",
-      "1 TBSP. VINEGAR",
-      "1 CUP WATER"
+      "6 cups Flour",
+      "1 lb. Lard",
+      "1 tsp Salt",
+      "1 Egg",
+      "1 Tbsp. Vinegar",
+      "1 cup Water"
     ],
-    "instructions": "MIX FLOUR, LARD, AND SALT UNTIL SMALL CRUMBS. IN MEASURING CUP BEAT EGG, ADD VINEGAR AND WATER TO MAKE 1 CUP.",
-    "snippet": "Flour, Lard, Salt, Egg, and 2 more ingredients..."
+    "instructions": "Mix flour, lard, and salt until small crumbs. In measuring cup beat egg, add vinegar and water to make 1 cup.\n\nAdd liquid to the flour mixture and stir with a fork until the dough just holds together. Divide into portions, wrap and chill about 30 minutes. (Keeps in the refrigerator for 2-3 weeks or may be frozen.)\n\nRoll out on a floured surface and bake according to your pie recipe.\n\nNote: Remaining steps were added from classic similar recipes.",
+    "snippet": "6 cups Flour, 1 lb. Lard, 1 tsp Salt, 1 Egg, and 2 more ingredients..."
   },
   {
     "id": "orange-rolls",
     "title": "Orange Rolls",
-    "filename": "ORANGE ROLLS.html",
+    "filename": "Orange Rolls.html",
     "category": "Breads",
     "source": "Mum",
     "ingredients": [
-      "1 ENVELOPE OF YEAST (1 TBSP)",
-      "1/4 CUP WARM WATER",
-      "1/4 CUP SUGAR",
-      "1 TSP. SALT",
-      "2 EGGS",
-      "1/2 CUP SOUR CREAM",
-      "6 TBSP. BUTTER",
-      "3 1/2 CUPS FLOUR",
-      "GLAZE: 3/4 CUP SUGAR",
-      "GLAZE: 1/2 CUP SOUR CREAM",
-      "GLAZE: 2 TBSP. ORANGE RIND",
-      "GLAZE: 1/2 CUP BUTTER"
+      "1 Envelope of Yeast (1 tbsp)",
+      "1/4 cup Warm Water",
+      "1/4 cup Sugar",
+      "1 tsp. Salt",
+      "2 Eggs",
+      "1/2 cup Sour Cream",
+      "6 Tbsp. Butter",
+      "3 1/2 cups Flour",
+      "Glaze: 3/4 cup Sugar",
+      "Glaze: 1/2 cup Sour Cream",
+      "Glaze: 2 Tbsp. Orange Rind",
+      "Glaze: 1/2 cup Butter"
     ],
-    "instructions": "SOAK YEAST IN 1/4 CUP WARM WATER. ADD SUGAR, SALT, EGGS, SOUR CREAM, BUTTER AND ONE CUP OF FLOUR. ADD REMAINING FLOUR UNTIL DOUGH IS SMOOTH AND NOT STICKY. ALLOW TO RISE IN A WARM PLACE UNTIL DOUBLE IN BULK. DIVIDE DOUGH IN HALF. ROLL INTO ABOUT 10\" CIRCLE. CUT IN 12 PIE SHAPED PIECES. PLACE IN 9X13\" GREASED PAN. ALLOW TO RISE AGAIN. BAKE 350 20 MINS. COVER WITH GLAZE WHICH HAS BEEN COOKED UNTIL THICK.",
-    "snippet": "Envelope of yeast (1 tbsp), Warm water, Sugar, Salt, and 8 more ingredients..."
+    "instructions": "Soak yeast in 1/4 cup warm water. Add sugar, salt, eggs, sour cream, butter and one cup of flour. Add remaining flour until dough is smooth and not sticky. Allow to rise in a warm place until double in bulk. Divide dough in half. Roll into about 10\" circle. Cut in 12 pie shaped pieces. Place in 9x13\" greased pan. Allow to rise again. Bake 350 20 mins. cover with glaze which has been cooked until thick.",
+    "snippet": "1 Envelope of Yeast, 1/4 cup Warm Water, 1/4 cup Sugar, 1 tsp. Salt, and 8 more ingredients..."
   },
   {
     "id": "orange-squares",
     "title": "Orange Squares",
-    "filename": "ORANGE SQUARES.html",
+    "filename": "Orange Squares.html",
     "category": "Squares & Bars",
     "source": "Mum",
     "ingredients": [
-      "3/4 CUP SUGAR",
-      "2 CUPS FLOUR",
-      "1 TSP BAKING POWDER",
-      "1/2 TSP. SALT",
-      "2 CUPS FINE COCONUT",
-      "1 CUP BUTTER",
-      "FILLING: 1 CUP WHITE SUGAR",
-      "FILLING: 2 TBSP. CORN STARCH",
-      "FILLING: JUICE AND RIND OF ONE ORANGE",
-      "FILLING: 1 CUP OF HOT WATER",
-      "FILLING: 1 TBSP. BUTTER"
+      "3/4 cup Sugar",
+      "2 cups Flour",
+      "1 tsp Baking Powder",
+      "1/2 tsp. Salt",
+      "2 cups Fine Coconut",
+      "1 cup Butter",
+      "Filling: 1 cup White Sugar",
+      "Filling: 2 Tbsp. Corn Starch",
+      "Filling: Juice and Rind of One Orange",
+      "Filling: 1 cup of Hot Water",
+      "Filling: 1 Tbsp. Butter"
     ],
-    "instructions": "COOK ORANGE JUICE, WATER, SUGAR AND CORN STARCH UNTIL THICK. ADD BUTTER. MIX SUGAR, FLOUR, BAKING POWDER, SALT, COCONUT AND BUTTER TOGETHER. PLACE HALF THE MIXTURE IN 9X11 PAN. COVER WITH FILLING. THEN THE REST OF THE MIXTURE. BAKE 30 MINS 375.",
-    "snippet": "Sugar, Flour, Baking powder, Salt, and 7 more ingredients..."
+    "instructions": "Cook orange juice, water, sugar and corn starch until thick. Add butter. Mix sugar, flour, baking powder, salt, coconut and butter together. Place half the mixture in 9x11 pan. Cover with filling. Then the rest of the mixture. Bake 30 mins 375.",
+    "snippet": "3/4 cup Sugar, 2 cups Flour, 1 tsp Baking Powder, 1/2 tsp. Salt, and 7 more ingredients..."
   },
   {
     "id": "pavlova",
     "title": "Pavlova",
-    "filename": "PALOVA.html",
+    "filename": "Pavlova.html",
     "category": "Desserts",
     "source": "Mum",
     "ingredients": [
-      "4 EGG WHITES",
-      "1 CUP GRANULATED SUGAR",
-      "1 TSP. CORN STARCH",
-      "1 TSP. VINEGAR",
-      "1 TSP VANILLA"
+      "4 Egg Whites",
+      "1 cup Granulated Sugar",
+      "1 tsp. Corn Starch",
+      "1 tsp. Vinegar",
+      "1 tsp Vanilla"
     ],
-    "instructions": "BEAT EGG WHITES UNTIL SOFT PEAKS FORM. ADD SUGAR AND CORN STARCH GRADUALLY BEATING UNTIL STIFF. BEAT IN VINEGAR AND VANILLA. THERE SHOULD NOT BE ANY GRAINY FEEL WHEN THE WHITES ARE RUBBED BETWEEN FINGERS. PLACE FOIL ON A COOKIE SHEET. SPREAD MERINGUE IN A CIRCLE. BAKE 250 FOR 50 TO 60 MINS. TURN OFF HEAT AND LEAVE IN OVEN FOR 1 HOUR. COOL. TOP WITH SWEETENED WHIPPED CREAM AND FRUIT. I USE A GLAZE OF STRAWBERRY JAM OVER THE FRUIT.",
-    "snippet": "Egg whites, Granulated sugar, Corn starch, Vinegar, and 1 more ingredients..."
+    "instructions": "Beat egg whites until soft peaks form. Add sugar and corn starch gradually beating until stiff. Beat in vinegar and vanilla. There should not be any grainy feel when the whites are rubbed between fingers. Place foil on a cookie sheet. Spread meringue in a circle. Bake 250 for 50 to 60 mins. turn off heat and leave in oven for 1 hour. Cool. Top with sweetened whipped cream and fruit. I use a glaze of strawberry jam over the fruit.",
+    "snippet": "4 Egg Whites, 1 cup Granulated Sugar, 1 tsp. Corn Starch, 1 tsp. Vinegar, and 1 more ingredient..."
   },
   {
     "id": "peach-upside-down-cake",
     "title": "Peach Upside Down Cake",
-    "filename": "PEACH UPSIDE DOWN CAKE.html",
+    "filename": "Peach Upside Down Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
-      "1/3 CUP BUTTER",
-      "1/2 CUP BROWN SUGAR",
-      "3 TBSP. CORN SYRUP",
-      "1/4 CUP SHORTENING",
-      "1/2 CUP SUGAR",
-      "2 EGGS",
-      "1/4 CUP ALMOND EXTRACT",
-      "1 1/2 TSP. BAKING POWDER",
-      "1/4 TSP. SALT",
-      "1/4 CUP MILK"
+      "1/3 cup Butter",
+      "1/2 cup Brown Sugar",
+      "3 Tbsp. Corn Syrup",
+      "1/4 cup Shortening",
+      "1/2 cup Sugar",
+      "2 Eggs",
+      "1/4 cup Almond Extract",
+      "1 1/2 tsp. Baking Powder",
+      "1/4 tsp. Salt",
+      "1/4 cup Milk"
     ],
-    "instructions": "PUT BUTTER AND BROWN SUGAR IN A NINE INCH PAN OVER LOW HEAT TO BLEND AND COOK JUST UNTIL MIXTURE BUBBLES. ADD CORN SYRUP. PLACE SLICED PEACHES IN THE MIXTURE. MAKE CAKE MIXTURE AND SPOON BATTER OVER PEACHES. BAKE 350 35 MINS. COOL ON CAKE RACK 10 MINS, THEN INVERT OVER SERVING PLATE LETTING ALL JUICES DRIP OVER CAKE.",
-    "snippet": "Butter, Brown sugar, Corn syrup, Shortening, and 6 more ingredients..."
+    "instructions": "Put butter and brown sugar in a nine inch pan over low heat to blend and cook just until mixture bubbles. Add corn syrup. Place sliced peaches in the mixture. Make cake mixture and spoon batter over peaches. Bake 350 35 mins. Cool on cake rack 10 mins, then invert over serving plate letting all juices drip over cake.",
+    "snippet": "1/3 cup Butter, 1/2 cup Brown Sugar, 3 Tbsp. Corn Syrup, 1/4 cup Shortening, and 6 more ingredients..."
   },
   {
     "id": "peanut-butter-cookies",
     "title": "Peanut Butter Cookies",
-    "filename": "PEANUT BUTTER COOKIES.html",
+    "filename": "Peanut Butter Cookies.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
@@ -1195,29 +1200,29 @@
       "1/4 tsp. Salt"
     ],
     "instructions": "Cream peanut butter, shortening, brown sugar, and white sugar until light. Beat in egg.\n\nCombine flour, baking soda, and salt; blend into creamed mixture.\n\nRoll dough into 1-inch balls and place on baking sheet. Press each ball with the tines of a fork in a criss-cross pattern.\n\nBake at 350°F for 12-15 minutes until lightly browned.",
-    "snippet": "Peanut butter, Shortening, Lightly packed brown sugar, White sugar, and 4 more ingredients..."
+    "snippet": "2/3 cup Peanut Butter, 1/2 cup Shortening, 2/3 cup lightly packed Brown Sugar, 1/2 cup White Sugar, and 4 more ingredients..."
   },
   {
     "id": "prize-ginger-bread",
     "title": "Prize Ginger Bread",
-    "filename": "PRIZE GINGERBREAD.html",
+    "filename": "Prize Ginger Bread.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
-      "1/2 CUP SUGAR",
-      "1 EGG",
-      "1 CUP MOLASSES",
-      "2 1/2 CUPS FLOUR",
-      "1 1/2 TSP. SODA",
-      "1 TSP. GINGER",
-      "1 TSP. CINNAMON",
-      "1/2 TSP. SALT",
-      "1/2 TSP. CLOVES",
-      "1 CUP HOT WATER",
-      "1/2 CUP SHORTENING AND BUTTER MIXED"
+      "1/2 cup Sugar",
+      "1 Egg",
+      "1 cup Molasses",
+      "2 1/2 cups Flour",
+      "1 1/2 tsp. Soda",
+      "1 tsp. Ginger",
+      "1 tsp. Cinnamon",
+      "1/2 tsp. Salt",
+      "1/2 tsp. Cloves",
+      "1 cup Hot Water",
+      "1/2 cup Shortening and Butter Mixed"
     ],
-    "instructions": "CREAM SHORTENING, BUTTER AND SUGAR. ADD EGG AND MOLASSES. THEN DRY INGREDIENTS. ADD HOT WATER LAST AND BEAT UNTIL SMOOTH. BAKE IN A GREASED 9X9 PAN 350 FOR ABOUT 35 MINS.",
-    "snippet": "Sugar, Egg, Molasses, Flour, and 7 more ingredients..."
+    "instructions": "Cream shortening, butter and sugar. Add egg and molasses. Then dry ingredients. Add hot water last and beat until smooth. Bake in a greased 9x9 pan 350 for about 35 mins.",
+    "snippet": "1/2 cup Sugar, 1 Egg, 1 cup Molasses, 2 1/2 cups Flour, and 7 more ingredients..."
   },
   {
     "id": "pumpkin-bread",
@@ -1238,29 +1243,29 @@
       "1/2 tsp. Cloves",
       "2/3 cup Water"
     ],
-    "instructions": "Bake 350 for 45 mins. Makes 2 Loaves.",
-    "snippet": "Sugar, Vegetable oil, (1 2/3 cup) pumpkin, Eggs, and 7 more ingredients..."
+    "instructions": "Preheat oven to 350°F. Grease two loaf pans.\n\nBeat sugar, oil, pumpkin and eggs together. Mix in water. Sift flour, baking soda, salt, baking powder and spices and stir into the pumpkin mixture just until combined.\n\nDivide batter between pans. Bake 350 for 45 mins, until a toothpick comes out clean. Makes 2 Loaves.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "3 Cups Sugar, 1 Cup Vegetable Oil, 1 Can, 4 eggs, and 7 more ingredients..."
   },
   {
     "id": "pumpkin-or-squash-pie",
     "title": "Pumpkin or Squash Pie",
-    "filename": "PUMPKIN OR SQUASH PIE.html",
+    "filename": "Pumpkin or Squash Pie.html",
     "category": "Pies & Tarts",
     "source": "Mum",
     "ingredients": [
-      "1 CUP PUMPKIN OR SQUASH",
-      "1/2 CUP BROWN SUGAR",
-      "2 TBSP. MOLASSES",
-      "1 TBSP. BUTTER (MELTED)",
-      "1 TBSP. CINNAMON",
-      "1/2 TSP. GINGER",
-      "1/2 TSP. SALT",
-      "2 EGGS",
-      "1 CUP BLEND (TOP MILK)",
-      "1 TSP. LEMON"
+      "1 cup Pumpkin or Squash",
+      "1/2 cup Brown Sugar",
+      "2 Tbsp. Molasses",
+      "1 Tbsp. Butter (melted)",
+      "1 Tbsp. Cinnamon",
+      "1/2 tsp. Ginger",
+      "1/2 tsp. Salt",
+      "2 Eggs",
+      "1 cup Blend (top milk)",
+      "1 tsp. Lemon"
     ],
-    "instructions": "ADD SUGAR, MOLASSES, SPICES, SALT AND MELTED BUTTER TO PUMPKIN OR SQUASH. BEAT EGGS SLIGHTLY AND ADD. THEN ADD MILK AND MIX THOROUGHLY. PUT IN AN UNBAKED PIE SHELL. BAKE 475 FOR 10 MINS THEN 325 FOR 45 MINS.",
-    "snippet": "Pumpkin or squash, Brown sugar, Molasses, Butter (melted), and 6 more ingredients..."
+    "instructions": "Add sugar, molasses, spices, salt and melted butter to pumpkin or squash. Beat eggs slightly and add. Then add milk and mix thoroughly. Put in an unbaked pie shell. Bake 475 for 10 mins then 325 for 45 mins.",
+    "snippet": "1 cup Pumpkin or Squash, 1/2 cup Brown Sugar, 2 Tbsp. Molasses, 1 Tbsp. Butter, and 6 more ingredients..."
   },
   {
     "id": "quick-and-easy-chili",
@@ -1289,7 +1294,7 @@
   {
     "id": "rhubarb-cocktail",
     "title": "Rhubarb Cocktail",
-    "filename": "RHUBARB COCKTAIL.html",
+    "filename": "Rhubarb Cocktail.html",
     "category": "Beverages",
     "source": "Mum",
     "ingredients": [
@@ -1300,27 +1305,27 @@
       "1/4 cup Lemon Juice"
     ],
     "instructions": "Combine chopped rhubarb and water in a pot; bring to a boil and cook until rhubarb is soft and tender.\n\nStrain through a fine sieve or cheesecloth.\n\nStir in sugar, orange juice, and lemon juice while warm until sugar is dissolved.\n\nChill thoroughly in refrigerator and serve over ice.",
-    "snippet": "Rhubarb (chopped), Water, Sugar, Orange juice, and 1 more ingredients..."
+    "snippet": "4 cups Rhubarb, 6 cups Water, 1 cup Sugar, 1/4 cup Orange Juice, and 1 more ingredient..."
   },
   {
     "id": "rhubarb-custard-pie",
     "title": "Rhubarb Custard Pie",
-    "filename": "RHUBARB CUSTARD PIE.html",
+    "filename": "Rhubarb Custard Pie.html",
     "category": "Pies & Tarts",
     "source": "Mum",
     "ingredients": [
-      "2 CUPS RHUBARB",
-      "1 CUP SUGAR",
-      "1 TBSP. CORN STARCH",
-      "3 EGG YOKES"
+      "2 cups Rhubarb",
+      "1 cup Sugar",
+      "1 Tbsp. Corn Starch",
+      "3 Egg Yolks"
     ],
-    "instructions": "MIX SUGAR AND CORN STARCH TOGETHER. ADD TO CUT UP RHUBARB. COOK UNTIL CREAMY. ADD BEATEN EGG YOKES. COOL. POUR INTO A BAKED PIE SHELL.\n\nMERINGE: 3 EGG WHITES, 3 TBSP. WATER. BEAT EGG WHITES AND WATER UNTIL THEY FORM STIFF PEAKS. ADD ABOUT 3 TBSP. SUGAR. COVER PIE. BAKE 425 UNTIL GOLDEN BROWN.",
-    "snippet": "Rhubarb, Sugar, Corn starch, Egg yokes..."
+    "instructions": "Mix sugar and corn starch together. Add to cut up rhubarb. Cook until creamy. Add beaten egg yolks. Cool. Pour into a baked pie shell.\n\nMeringue: 3 egg whites, 3 Tbsp. water. Beat egg whites and water until they form stiff peaks. Add about 3 Tbsp. sugar. Cover pie. Bake 425 until golden brown.",
+    "snippet": "2 cups Rhubarb, 1 cup Sugar, 1 Tbsp. Corn Starch, 3 Egg Yolks"
   },
   {
     "id": "rhubarb-delight",
     "title": "Rhubarb Delight",
-    "filename": "RHUBARB DELIGHT.html",
+    "filename": "Rhubarb Delight.html",
     "category": "Desserts",
     "source": "Mum",
     "ingredients": [
@@ -1337,31 +1342,31 @@
       "Topping: 1/2 tsp. Salt"
     ],
     "instructions": "Spread chopped rhubarb evenly in a 9x13-inch baking pan. Sprinkle 1 cup white sugar over the rhubarb, followed by the dry strawberry jello powder, then cover evenly with mini marshmallows.\n\nPrepare topping: cream sugar and shortening, beat in egg and milk, then fold in flour, baking powder, and salt. Spoon batter evenly over marshmallow layer.\n\nBake at 300°F for 50 minutes until golden and bubbling.",
-    "snippet": "Fresh rhubarb (chopped), White sugar, Strawberry jello, Mini marshmallows, and 7 more ingredients..."
+    "snippet": "6 cups fresh Rhubarb, 1 cup White Sugar, 1 pkg. Strawberry Jello, 1 pkg. Mini Marshmallows, and 7 more ingredients..."
   },
   {
     "id": "rhubarb-sour-cream-pie",
     "title": "Rhubarb Sour Cream Pie",
-    "filename": "RHUBARB SOUR CREAM PIE.html",
+    "filename": "Rhubarb Sour Cream Pie.html",
     "category": "Pies & Tarts",
     "source": "Mum",
     "ingredients": [
-      "FILLING: 4 CUPS CHOPPED RHUBARB",
-      "FILLING: 1 EGG",
-      "FILLING: 1 1/2 CUPS GRANULATED SUGAR",
-      "FILLING: 1 CUP SOUR CREAM",
-      "FILLING: 1/3 CUP FLOUR",
-      "TOPPING: 1/2 CUP FLOUR",
-      "TOPPING: 1/2 CUP BROWN SUGAR",
-      "TOPPING: 1/4 CUP BUTTER (MELTED)"
+      "Filling: 4 cups chopped Rhubarb",
+      "Filling: 1 Egg",
+      "Filling: 1 1/2 cups Granulated Sugar",
+      "Filling: 1 cup Sour Cream",
+      "Filling: 1/3 cup Flour",
+      "Topping: 1/2 cup Flour",
+      "Topping: 1/2 cup Brown Sugar",
+      "Topping: 1/4 cup Butter (melted)"
     ],
-    "instructions": "ARRANGE RHUBARB EVENLY IN UNBAKED PIE SHELL. IN BOWL WHISK TOGETHER EGG, SUGAR, SOUR CREAM AND FLOUR UNTIL SMOOTH. POUR OVER FRUIT.\n\nTOPPING: IN SMALL BOWL MIX TOGETHER FLOUR AND SUGAR. DRIZZLE IN BUTTER AND MIX UNTIL CRUMBLY. SPRINKLE OVER FILLING. BAKE 450 FOR 15 MINS THEN 350 FOR ABOUT 40 MINS.",
-    "snippet": "Chopped rhubarb, Egg, Granulated sugar, Sour cream, and 4 more ingredients..."
+    "instructions": "Arrange rhubarb evenly in unbaked pie shell. In bowl whisk together egg, sugar, sour cream and flour until smooth. Pour over fruit.\n\nTopping: in small bowl mix together flour and sugar. Drizzle in butter and mix until crumbly. Sprinkle over filling. Bake 450 for 15 mins then 350 for about 40 mins.",
+    "snippet": "Filling: 4 cups chopped Rhubarb, Filling: 1 Egg, Filling: 1 1/2 cups Granulated Sugar, Filling: 1 cup Sour Cream, and 4 more ingredients..."
   },
   {
     "id": "rhubarb-walnut-muffins",
     "title": "Rhubarb Walnut Muffins",
-    "filename": "RHUBARB-WALNUT MUFFINS.html",
+    "filename": "Rhubarb Walnut Muffins.html",
     "category": "Muffins",
     "source": "Mum",
     "ingredients": [
@@ -1381,22 +1386,22 @@
       "Topping: 3/4 tsp. Cinnamon"
     ],
     "instructions": "In a bowl, combine brown sugar, melted butter, egg, vanilla, and buttermilk. Stir in diced rhubarb and chopped walnuts.\n\nIn a separate bowl, whisk together flour, baking soda, baking powder, and salt. Gently fold into the wet mixture until just moistened.\n\nSpoon batter into greased muffin tins. Brush tops with 1 Tbsp melted butter and sprinkle with cinnamon-sugar topping.\n\nBake at 350°-375°F for about 20 minutes.",
-    "snippet": "Plus 2 tbsp. packed brown sugar, Melted butter, Egg, Vanilla, and 10 more ingredients..."
+    "snippet": "1/2 cup plus 2 Tbsp. packed Brown Sugar, 1/4 cup melted Butter, 1 Egg, 1 tsp. Vanilla, and 10 more ingredients..."
   },
   {
     "id": "shortbread-cookies",
     "title": "Shortbread Cookies",
-    "filename": "SHORTBREAD COOKIES.html",
+    "filename": "Shortbread Cookies.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
-      "1/2 CUP CORN STARCH",
-      "1/2 CUP ICING SUGAR",
-      "1 CUP FLOUR",
-      "3/4 CUP BUTTER"
+      "1/2 cup Corn Starch",
+      "1/2 cup Icing Sugar",
+      "1 cup Flour",
+      "3/4 cup Butter"
     ],
-    "instructions": "BAKE 300 20 TO 25 MINS",
-    "snippet": "Corn starch, Icing sugar, Flour, Butter..."
+    "instructions": "Preheat oven to 300°F. Sift corn starch, icing sugar and flour together. Work in butter with your hands until a smooth dough forms.\n\nShape into 1 inch balls and place on an ungreased cookie sheet. Flatten gently with a fork. Bake 300 20 to 25 mins, until pale golden. Cool on the sheet.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "1/2 cup Corn Starch, 1/2 cup Icing Sugar, 1 cup Flour, 3/4 cup Butter"
   },
   {
     "id": "shortbread-meltaways",
@@ -1415,12 +1420,12 @@
       "1 cup Skor Toffee Bits"
     ],
     "instructions": "Roll in 1\" balls. Bake 350 about 15 mins. When cool may be dusted with Icing Sugar.",
-    "snippet": "Butter, Icing sugar, Vanilla, Flour, and 4 more ingredients..."
+    "snippet": "1 cup Butter, 1/2 cup Icing Sugar, 2 tsp. Vanilla, 1 3/4 cup Flour, and 4 more ingredients..."
   },
   {
     "id": "snicker-doodle-coffee-cake",
     "title": "Snicker Doodle Coffee Cake",
-    "filename": "SNICKER DOODLE.html",
+    "filename": "Snicker Doodle Coffee Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
@@ -1435,12 +1440,12 @@
       "Topping: Cinnamon and Sugar"
     ],
     "instructions": "Sift together flour, sugar, salt, cinnamon, and baking powder.\n\nWhisk milk, egg, and melted butter; pour into dry ingredients and mix well.\n\nSpread into a greased square baking pan. Sprinkle top generously with cinnamon and sugar.\n\nBake at 400°F for 20 minutes.",
-    "snippet": "Flour, Sugar, Pinch of salt, Cinnamon, and 5 more ingredients..."
+    "snippet": "1 cup Flour, 3/4 cup Sugar, Pinch of Salt, 1/2 tsp. Cinnamon, and 5 more ingredients..."
   },
   {
     "id": "spiced-beef",
     "title": "Spiced Beef",
-    "filename": "SPICED BEEF.html",
+    "filename": "Spiced Beef.html",
     "category": "Main Dishes",
     "source": "Mum",
     "ingredients": [
@@ -1453,12 +1458,12 @@
       "5 Tbsp. Mixed Whole Spices"
     ],
     "instructions": "Place meat on heavy foil. Wipe surface dry and rub with tenderizer. Take a sharp knife and poke small holes throughout the brisket; insert slices of garlic into the holes.\n\nMix salt, sugar, dash of cinnamon, saltpetre, and whole mixed spices thoroughly. Rub spices and salt deeply into both sides of the brisket.\n\nWrap foil tightly around the meat and refrigerate for 6 days, turning daily. Bake at 300°F for about 3 hours until tender.",
-    "snippet": "Or 8 lbs. point brisket, Salt, Sugar, Dash of cinnamon, and 3 more ingredients..."
+    "snippet": "7 or 8 lbs. Point Brisket, 5 Tbsp. Salt, 5 Tbsp. Sugar, Dash of Cinnamon, and 3 more ingredients..."
   },
   {
     "id": "spicey-bran-muffins",
-    "title": "Spicey Bran Muffins",
-    "filename": "Spicey Bran Muffins.html",
+    "title": "Spicy Bran Muffins",
+    "filename": "Spicy Bran Muffins.html",
     "category": "Muffins",
     "source": "Mum",
     "ingredients": [
@@ -1475,31 +1480,31 @@
       "1/2 tsp. nutmeg"
     ],
     "instructions": "Combine all bran and milk. Let stand until moisture is taken up. Add egg and shortening; beat well. Stir in raisins. Add flour, baking powder, salt, sugar, cinnamon and nutmeg. Add to All-bran mixture, stirring only until combined. Bake 400 for 20 -25 mins.",
-    "snippet": "All bran, Milk, Egg, Melted shortening, and 7 more ingredients..."
+    "snippet": "1 cup All Bran, 1 cup Milk, 1 Egg, 1/4 cup Melted Shortening, and 7 more ingredients..."
   },
   {
     "id": "spicey-raisin-oatmeal-cookies",
-    "title": "Spicey Raisin Oatmeal Cookies",
-    "filename": "SPICEY RAISIN OATMEAL COOKIES.html",
+    "title": "Spicy Raisin Oatmeal Cookies",
+    "filename": "Spicy Raisin Oatmeal Cookies.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
-      "1/2 CUP SHORTENING",
-      "1/2 CUP BROWN SUGAR",
-      "1/2 CUP WHITE SUGAR",
-      "1 EGG",
-      "1/2 TSP VANILLA",
-      "2 TBSP. MILK",
-      "1 CUP FLOUR",
-      "1 TSP. SODA",
-      "1/2 TSP. SALT",
-      "1/2 TSP. CINNAMON",
-      "1/2 TSP. NUTMEG",
-      "1 1/2 CUPS OATMEAL",
-      "1 CUP RAISINS"
+      "1/2 cup Shortening",
+      "1/2 cup Brown Sugar",
+      "1/2 cup White Sugar",
+      "1 Egg",
+      "1/2 tsp Vanilla",
+      "2 Tbsp. Milk",
+      "1 cup Flour",
+      "1 tsp. Soda",
+      "1/2 tsp. Salt",
+      "1/2 tsp. Cinnamon",
+      "1/2 tsp. Nutmeg",
+      "1 1/2 cups Oatmeal",
+      "1 cup Raisins"
     ],
-    "instructions": "BAKE 350 FOR 12-15 MINS",
-    "snippet": "Shortening, Brown sugar, White sugar, Egg, and 9 more ingredients..."
+    "instructions": "Preheat oven to 350°F. Cream shortening and sugars. Beat in egg, vanilla and milk. Combine flour, soda, salt, cinnamon and nutmeg and stir into the creamed mixture. Stir in oatmeal and raisins.\n\nDrop by spoonfuls onto an ungreased cookie sheet. Bake 350 for 12-15 mins.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "1/2 cup Shortening, 1/2 cup Brown Sugar, 1/2 cup White Sugar, 1 Egg, and 9 more ingredients..."
   },
   {
     "id": "spicy-ranch-chicken",
@@ -1523,12 +1528,12 @@
       "Coarsely chopped chives and/or dill (for serving; optional)"
     ],
     "instructions": "1. Make Dressing: Whisk lemon zest, juice, yogurt, mayonnaise, dried dill, garlic powder, onion powder, hot sauce, pepper, sugar, and 1 tsp. salt in a large bowl. Reserve 1/2 cup for serving.\n\n2. Prep & Marinate: Slice chicken into thin cutlets if using regular breasts. Add to remaining dressing with 1 1/2 tsp. salt and toss to coat. Marinate 30 mins to 12 hours.\n\n3. Grill: Prepare grill for medium-high indirect heat. Grill chicken over direct heat until dark marks appear (~4 mins), flip, and move to indirect heat until cooked through (~3 mins).\n\n4. Serve: Slice crosswise into 3–4 pieces, spoon reserved dressing on platter, arrange chicken on top, and scatter fresh herbs.",
-    "snippet": "Lemon zest and juice, plain whole-milk yogurt, mayonnaise, dried dill, garlic powder, onion powder, and 7 more ingredients..."
+    "snippet": "Zest and juice of 1 lemon, 1 1/2 cups plain whole-milk yogurt, 1/2 cup mayonnaise, 2 Tbsp. dried dill, and 9 more ingredients..."
   },
   {
     "id": "spinach-squares",
     "title": "Spinach Squares",
-    "filename": "SPINACH SQUARES.html",
+    "filename": "Spinach Squares.html",
     "category": "Appetizers",
     "source": "Mum",
     "ingredients": [
@@ -1543,34 +1548,34 @@
       "1/4 cup chopped onion"
     ],
     "instructions": "In large bowl beat eggs. Add butter, flour, milk, salt and baking powder. Stir in cheese, cooked onion and spinach. Spoon into 9\"x13\" greased pan and level. Bake 350° 35 minutes. Cool and cut into bite-sized squares. Freezes well. (Defrost and reheat 15 mins.) Makes 45 pieces.",
-    "snippet": "Fresh spinach, Softened butter, Milk, Flour, and 5 more ingredients..."
+    "snippet": "1 - 10 oz pkg. fresh spinach, 2 tbsp. softened butter, 1/2 cup milk, 1/2 cup flour, and 5 more ingredients..."
   },
   {
     "id": "sunday-spice-cake",
     "title": "Sunday Spice Cake",
-    "filename": "SUNDAY SPICE CAKE.html",
+    "filename": "Sunday Spice Cake.html",
     "category": "Cakes",
     "source": "Mum",
     "ingredients": [
-      "2 1/2 CUP FLOUR",
-      "1 1/4 CUP SUGAR",
-      "1 TSP. SALT",
-      "1 TSP. CINNAMON",
-      "1/2 TSP. EACH OF CLOVES, NUTMEG, ALLSPICE",
-      "1/3 CUP MOLASSES",
-      "2/3 CUP MILK",
-      "2 1/2 TSP BAKING POWDER",
-      "1/2 TSP BAKING SODA",
-      "3 EGGS",
-      "1/2 CUP MILK"
+      "2 1/2 cup Flour",
+      "1 1/4 cup Sugar",
+      "1 tsp. Salt",
+      "1 tsp. Cinnamon",
+      "1/2 tsp. Each of Cloves, Nutmeg, Allspice",
+      "1/3 cup Molasses",
+      "2/3 cup Milk",
+      "2 1/2 tsp Baking Powder",
+      "1/2 tsp Baking Soda",
+      "3 Eggs",
+      "1/2 cup Milk"
     ],
-    "instructions": "COOK AS TWO LAYERS OR IN A 9 X 13 PAN BAKE 375 FOR 35 MINS.",
-    "snippet": "Flour, Sugar, Salt, Cinnamon, Molasses, and 6 more ingredients..."
+    "instructions": "Preheat oven to 375°F. Grease two layer pans or a 9 x 13 pan.\n\nStir together flour, sugar, salt, cinnamon, cloves, nutmeg, allspice, baking powder and baking soda. Beat eggs with molasses and milk and stir into the dry ingredients until smooth.\n\nCook as two layers or in a 9 x 13 pan bake 375 for 35 mins.\n\nNote: Mixing steps were added from classic similar recipes; the original recipe listed only the baking details.",
+    "snippet": "2 1/2 cup Flour, 1 1/4 cup Sugar, 1 tsp. Salt, 1 tsp. Cinnamon, and 7 more ingredients..."
   },
   {
     "id": "sweet-and-sour-meatballs",
     "title": "Sweet and Sour Meatballs",
-    "filename": "sweet and sour meatballs.html",
+    "filename": "Sweet and Sour Meatballs.html",
     "category": "Main Dishes",
     "source": "Mum",
     "ingredients": [
@@ -1585,7 +1590,7 @@
       "1 1/2 cups Brown Sugar"
     ],
     "instructions": "Shape ground meat and onion seasoned with salt and pepper into meatballs and place in a baking dish.\n\nIn a bowl, whisk together ketchup, dry mustard, vinegar, water, flour, and brown sugar until smooth to make the sweet and sour sauce.\n\nPour sauce generously over meatballs. Bake uncovered at 350°F for 1 hour.",
-    "snippet": "Ground meat, Onion (finely chopped), Salt and pepper to taste, Ketchup, and 5 more ingredients..."
+    "snippet": "2 lbs. Ground Meat, 1 Onion, Salt and Pepper to taste, 1 cup Ketchup, and 5 more ingredients..."
   },
   {
     "id": "tea-biscuits",
@@ -1606,17 +1611,17 @@
   {
     "id": "whipped-scotch-cookies",
     "title": "Whipped Scotch Cookies",
-    "filename": "WHIPPED SCOTCH COOKIES.html",
+    "filename": "Whipped Scotch Cookies.html",
     "category": "Cookies",
     "source": "Mum",
     "ingredients": [
-      "1 lb BUTTER",
-      "1 CUP ICING SUGAR",
-      "1/2 CUP CORN STARCH",
-      "3 CUPS FLOUR",
-      "1 tsp VANILLA"
+      "1 lb Butter",
+      "1 cup Icing Sugar",
+      "1/2 cup Corn Starch",
+      "3 cups Flour",
+      "1 tsp Vanilla"
     ],
     "instructions": "Mix together and beat until fluffy. Drop from a spoon on cookie sheet. Bake 20-25 mins at 325°F.",
-    "snippet": "Butter, Icing sugar, Corn starch, Flour, and 1 more ingredients..."
+    "snippet": "1 lb Butter, 1 cup Icing Sugar, 1/2 cup Corn Starch, 3 cups Flour, and 1 more ingredient..."
   }
 ]
