@@ -1,6 +1,0 @@
-Ini, TOML
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Content-Security-Policy = "upgrade-insecure-requests"
