@@ -708,6 +708,24 @@
     "snippet": "Butter, Shortening, Sugar, Eggs (well beaten), and 11 more ingredients..."
   },
   {
+    "id": "garys-lmnt-like-electrolyte-mix",
+    "title": "Gary's LMNT-like Electrolyte Mix",
+    "filename": "Gary's LMNT-like Electrolyte Mix.html",
+    "category": "Beverages",
+    "source": "Gary",
+    "ingredients": [
+      "45.0 grams Sodium Chloride (Plain Salt)",
+      "45.0 grams Nu-Salt (Potassium Chloride)",
+      "13.5 grams Magnesium Malate (Fine Powder)",
+      "7.2 grams Monk Fruit Extract Powder (Pure 100%)",
+      "144.0 grams True Lemon Bulk Powder",
+      "144.0 grams True Lime Bulk Powder",
+      "45.0 grams Citric Acid"
+    ],
+    "instructions": "Combine all ingredients in a large, clean, dry container and whisk or shake vigorously until the powders are completely uniform.\nStore tightly sealed in an airtight jar with a silica gel packet to prevent moisture clumping.\nTotal batch weight: 443.7 grams.\nSingle serving dosage: 4.93 grams per serving.",
+    "snippet": "45.0 grams Sodium Chloride, 45.0 grams Nu-Salt, 13.5 grams Magnesium Malate, 7.2 grams Monk Fruit Extract Powder, and 3 more ingredients..."
+  },
+  {
     "id": "ginger-crinkles",
     "title": "Ginger Crinkles",
     "filename": "GINGER CRINKLES.html",
@@ -1243,6 +1261,30 @@
     ],
     "instructions": "ADD SUGAR, MOLASSES, SPICES, SALT AND MELTED BUTTER TO PUMPKIN OR SQUASH. BEAT EGGS SLIGHTLY AND ADD. THEN ADD MILK AND MIX THOROUGHLY. PUT IN AN UNBAKED PIE SHELL. BAKE 475 FOR 10 MINS THEN 325 FOR 45 MINS.",
     "snippet": "Pumpkin or squash, Brown sugar, Molasses, Butter (melted), and 6 more ingredients..."
+  },
+  {
+    "id": "quick-and-easy-chili",
+    "title": "Quick and Easy Chili",
+    "filename": "Quick and Easy Chili.html",
+    "category": "Main Dishes",
+    "source": "Gary",
+    "ingredients": [
+      "1 lb ground beef",
+      "2 yellow onions, chopped (1 1/2 cups)",
+      "1-2 large green bell pepper, chopped (1 1/2 cups)",
+      "3 tablespoons mild chili powder",
+      "1 tablespoon dried oregano",
+      "2 teaspoons ground cumin",
+      "4 cloves garlic, minced",
+      "2 15-oz. cans pinto beans, rinsed and drained",
+      "1 15-oz. can kidney beans, rinsed and drained",
+      "3 14-oz. cans diced tomatoes, undrained",
+      "2 cups beef stock",
+      "Sea salt, to taste",
+      "Freshly ground black pepper, to taste"
+    ],
+    "instructions": "Brown and drain ground beef; set aside, leaving the pot for the next step.\nIn a Dutch oven cook onions and bell peppers over medium 5 minutes or until softened, stirring occasionally and adding water, 1 to 2 Tbsp. at a time, as needed to prevent sticking.\nStir in chili powder, oregano, cumin, and garlic; cook 1 minute.\nAdd browned beef, beans, tomatoes, and beef stock. Bring just to boiling over medium-high; reduce heat. Simmer, partially covered, 20 minutes or until tomatoes start to break down and mixture is slightly thick.\nSeason with salt and pepper to taste.",
+    "snippet": "1 lb ground beef, 2 yellow onions, 1-2 large green bell pepper, 3 tablespoons mild chili powder, and 9 more ingredients..."
   },
   {
     "id": "rhubarb-cocktail",
